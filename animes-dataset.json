@@ -21,38 +21,36 @@
 		"locked": 0
 	},
 	"categories": [
-		[
-			{ "content_type_id": "animes", "name": "Action", "slug": "action" },
-			{
-				"content_type_id": "animes",
-				"name": "Adventure",
-				"slug": "adventure"
-			},
-			{ "content_type_id": "animes", "name": "Comedy", "slug": "comedy" },
-			{ "content_type_id": "animes", "name": "Drama", "slug": "drama" },
-			{
-				"content_type_id": "animes",
-				"name": "Romance",
-				"slug": "romance"
-			},
-			{ "content_type_id": "animes", "name": "Sci-Fi", "slug": "sci-fi" },
-			{ "content_type_id": "animes", "name": "Horror", "slug": "horror" },
-			{
-				"content_type_id": "animes",
-				"name": "Thriller",
-				"slug": "thriller"
-			},
-			{
-				"content_type_id": "animes",
-				"name": "Mystery",
-				"slug": "mystery"
-			},
-			{
-				"content_type_id": "animes",
-				"name": "Psychological",
-				"slug": "psychological"
-			}
-		]
+		{ "content_type_id": "animes", "name": "Action", "slug": "action" },
+		{
+			"content_type_id": "animes",
+			"name": "Adventure",
+			"slug": "adventure"
+		},
+		{ "content_type_id": "animes", "name": "Comedy", "slug": "comedy" },
+		{ "content_type_id": "animes", "name": "Drama", "slug": "drama" },
+		{
+			"content_type_id": "animes",
+			"name": "Romance",
+			"slug": "romance"
+		},
+		{ "content_type_id": "animes", "name": "Sci-Fi", "slug": "sci-fi" },
+		{ "content_type_id": "animes", "name": "Horror", "slug": "horror" },
+		{
+			"content_type_id": "animes",
+			"name": "Thriller",
+			"slug": "thriller"
+		},
+		{
+			"content_type_id": "animes",
+			"name": "Mystery",
+			"slug": "mystery"
+		},
+		{
+			"content_type_id": "animes",
+			"name": "Psychological",
+			"slug": "psychological"
+		}
 	],
 	"tags": [
 		{ "content_type_id": "animes", "name": "Shonen", "slug": "shonen" },
