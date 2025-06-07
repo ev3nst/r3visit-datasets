@@ -1,4 +1,12 @@
 {
+	"metadata": {
+		"id": "anime",
+		"title": "Anime Collection",
+		"description": "Comprehensive anime dataset with demographics, genres, studios, and MyAnimeList integration for tracking your anime journey.",
+		"author": "R3VISIT",
+		"updated_at": "2025-06-07",
+		"version": "1.0.0"
+	},
 	"content_type": {
 		"name": "Animes",
 		"slug": "animes",

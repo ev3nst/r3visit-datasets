@@ -1,4 +1,12 @@
 {
+	"metadata": {
+		"id": "movies",
+		"title": "Movies Collection",
+		"description": "Complete movie dataset with genres, cast, crew, and metadata for organizing your personal film library.",
+		"author": "R3VISIT",
+		"created_at": "2024-12-01",
+		"version": "1.0.0"
+	},
 	"content_type": {
 		"name": "Movies",
 		"slug": "movies",
