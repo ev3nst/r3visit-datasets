@@ -7,8 +7,8 @@
     "description": "My personal game collection where I catalog all the digital adventures that have entertained me.",
     "cover": null,
     "icon": null,
-    "order": 3,
-    "pinned": 1,
+    "order": null,
+    "pinned": 0,
     "docked": 0,
     "locked": 0
   },

@@ -7,8 +7,8 @@
     "description": "My personal anime collection where I keep track of all the series and movies that have captured my imagination.",
     "cover": null,
     "icon": null,
-    "order": 2,
-    "pinned": 1,
+    "order": null,
+    "pinned": 0,
     "docked": 0,
     "locked": 0
   },

@@ -7,8 +7,8 @@
     "description": "My personal movie collection where I store and organize all my favorite films, from blockbusters to indie gems.",
     "cover": null,
     "icon": null,
-    "order": 1,
-    "pinned": 1,
+    "order": null,
+    "pinned": 0,
     "docked": 0,
     "locked": 0
   },
