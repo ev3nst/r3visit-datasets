@@ -1,194 +1,222 @@
 {
-  "content_type": {
-    "name": "Animes",
-    "slug": "animes",
-    "shape": "rectangular",
-    "file_type": "video",
-    "description": "My personal anime collection where I keep track of all the series and movies that have captured my imagination.",
-    "cover": null,
-    "icon": null,
-    "order": null,
-    "pinned": 0,
-    "docked": 0,
-    "locked": 0
-  },
-  "categories": [
-    [
-      { "content_type_id": "animes", "name": "Action", "slug": "action" },
-      { "content_type_id": "animes", "name": "Adventure", "slug": "adventure" },
-      { "content_type_id": "animes", "name": "Comedy", "slug": "comedy" },
-      { "content_type_id": "animes", "name": "Drama", "slug": "drama" },
-      { "content_type_id": "animes", "name": "Romance", "slug": "romance" },
-      { "content_type_id": "animes", "name": "Sci-Fi", "slug": "sci-fi" },
-      { "content_type_id": "animes", "name": "Horror", "slug": "horror" },
-      { "content_type_id": "animes", "name": "Thriller", "slug": "thriller" },
-      { "content_type_id": "animes", "name": "Mystery", "slug": "mystery" },
-      {
-        "content_type_id": "animes",
-        "name": "Psychological",
-        "slug": "psychological"
-      }
-    ]
-  ],
-  "tags": [
-    { "content_type_id": "animes", "name": "Shonen", "slug": "shonen" },
-    { "content_type_id": "animes", "name": "Shojo", "slug": "shojo" },
-    { "content_type_id": "animes", "name": "Seinen", "slug": "seinen" },
-    { "content_type_id": "animes", "name": "Josei", "slug": "josei" },
-    { "content_type_id": "animes", "name": "Kodomomuke", "slug": "kodomomuke" },
-    { "content_type_id": "animes", "name": "OVA", "slug": "ova" },
-    { "content_type_id": "animes", "name": "ONA", "slug": "ona" },
-    { "content_type_id": "animes", "name": "Movie", "slug": "movie" },
-    { "content_type_id": "animes", "name": "Short-Form", "slug": "short-form" },
-    {
-      "content_type_id": "animes",
-      "name": "School Setting",
-      "slug": "school-setting"
-    },
-    {
-      "content_type_id": "animes",
-      "name": "Music-Themed",
-      "slug": "music-themed"
-    },
-    { "content_type_id": "animes", "name": "Fantasy", "slug": "fantasy" },
-    {
-      "content_type_id": "animes",
-      "name": "Supernatural",
-      "slug": "supernatural"
-    },
-    {
-      "content_type_id": "animes",
-      "name": "Slice of Life",
-      "slug": "slice-of-life"
-    },
-    { "content_type_id": "animes", "name": "School", "slug": "school" },
-    { "content_type_id": "animes", "name": "Sports", "slug": "sports" },
-    { "content_type_id": "animes", "name": "Mecha", "slug": "mecha" },
-    { "content_type_id": "animes", "name": "Isekai", "slug": "isekai" },
-    { "content_type_id": "animes", "name": "Harem", "slug": "harem" },
-    { "content_type_id": "animes", "name": "Ecchi", "slug": "ecchi" },
-    { "content_type_id": "animes", "name": "Yuri", "slug": "yuri" },
-    { "content_type_id": "animes", "name": "Yaoi", "slug": "yaoi" },
-    {
-      "content_type_id": "animes",
-      "name": "Magical Girl",
-      "slug": "magical-girl"
-    },
-    {
-      "content_type_id": "animes",
-      "name": "Historical",
-      "slug": "historical"
-    },
-    { "content_type_id": "animes", "name": "Military", "slug": "military" },
-    { "content_type_id": "animes", "name": "Music", "slug": "music" },
-    { "content_type_id": "animes", "name": "Parody", "slug": "parody" },
-    { "content_type_id": "animes", "name": "Vampire", "slug": "vampire" },
-    { "content_type_id": "animes", "name": "Demon", "slug": "demon" },
-    { "content_type_id": "animes", "name": "Ninja", "slug": "ninja" },
-    { "content_type_id": "animes", "name": "Samurai", "slug": "samurai" },
-    {
-      "content_type_id": "animes",
-      "name": "Post-Apocalyptic",
-      "slug": "post-apocalyptic"
-    },
-    { "content_type_id": "animes", "name": "Cyberpunk", "slug": "cyberpunk" },
-    {
-      "content_type_id": "animes",
-      "name": "Time Travel",
-      "slug": "time-travel"
-    }
-  ],
-  "content_metadata_attributes": [
-    {
-      "content_type_id": "animes",
-      "name": "franchise",
-      "attribute_type": "text",
-      "is_array": 0,
-      "description": "Franchise"
-    },
-    {
-      "content_type_id": "animes",
-      "name": "original_title",
-      "attribute_type": "text",
-      "is_array": 0,
-      "description": "Original Title"
-    },
-    {
-      "content_type_id": "animes",
-      "name": "year",
-      "attribute_type": "text",
-      "is_array": 0,
-      "description": "Release Year"
-    },
-    {
-      "content_type_id": "animes",
-      "name": "episodes",
-      "attribute_type": "number",
-      "is_array": 0,
-      "description": "Total Episodes"
-    },
-    {
-      "content_type_id": "animes",
-      "name": "scraped_url",
-      "attribute_type": "text",
-      "is_array": 0,
-      "description": "Scraped URL"
-    },
-    {
-      "content_type_id": "animes",
-      "name": "poster",
-      "attribute_type": "text",
-      "is_array": 0,
-      "description": "Poster"
-    },
-    {
-      "content_type_id": "animes",
-      "name": "trailer",
-      "attribute_type": "text",
-      "is_array": 0,
-      "description": "Trailer"
-    },
-    {
-      "content_type_id": "animes",
-      "name": "duration",
-      "attribute_type": "number",
-      "is_array": 0,
-      "description": "Duration per Episode"
-    },
-    {
-      "content_type_id": "animes",
-      "name": "studios",
-      "attribute_type": "text",
-      "is_array": 1,
-      "description": "Animation Studios"
-    },
-    {
-      "content_type_id": "animes",
-      "name": "mal_id",
-      "attribute_type": "number",
-      "is_array": 0,
-      "description": "MyAnimeList ID"
-    },
-    {
-      "content_type_id": "animes",
-      "name": "mal_rating",
-      "attribute_type": "number",
-      "is_array": 0,
-      "description": "MyAnimeList Rating"
-    },
-    {
-      "content_type_id": "animes",
-      "name": "other_images",
-      "attribute_type": "text",
-      "is_array": 0,
-      "description": "Additional Images"
-    },
-    {
-      "content_type_id": "animes",
-      "name": "plot",
-      "attribute_type": "text",
-      "is_array": 0,
-      "description": "Plot"
-    }
-  ]
+	"content_type": {
+		"name": "Animes",
+		"slug": "animes",
+		"shape": "rectangular",
+		"file_type": "video",
+		"description": "My personal anime collection where I keep track of all the series and movies that have captured my imagination.",
+		"cover": null,
+		"icon": null,
+		"order": null,
+		"pinned": 0,
+		"docked": 0,
+		"locked": 0
+	},
+	"categories": [
+		[
+			{ "content_type_id": "animes", "name": "Action", "slug": "action" },
+			{
+				"content_type_id": "animes",
+				"name": "Adventure",
+				"slug": "adventure"
+			},
+			{ "content_type_id": "animes", "name": "Comedy", "slug": "comedy" },
+			{ "content_type_id": "animes", "name": "Drama", "slug": "drama" },
+			{
+				"content_type_id": "animes",
+				"name": "Romance",
+				"slug": "romance"
+			},
+			{ "content_type_id": "animes", "name": "Sci-Fi", "slug": "sci-fi" },
+			{ "content_type_id": "animes", "name": "Horror", "slug": "horror" },
+			{
+				"content_type_id": "animes",
+				"name": "Thriller",
+				"slug": "thriller"
+			},
+			{
+				"content_type_id": "animes",
+				"name": "Mystery",
+				"slug": "mystery"
+			},
+			{
+				"content_type_id": "animes",
+				"name": "Psychological",
+				"slug": "psychological"
+			}
+		]
+	],
+	"tags": [
+		{ "content_type_id": "animes", "name": "Shonen", "slug": "shonen" },
+		{ "content_type_id": "animes", "name": "Shojo", "slug": "shojo" },
+		{ "content_type_id": "animes", "name": "Seinen", "slug": "seinen" },
+		{ "content_type_id": "animes", "name": "Josei", "slug": "josei" },
+		{
+			"content_type_id": "animes",
+			"name": "Kodomomuke",
+			"slug": "kodomomuke"
+		},
+		{ "content_type_id": "animes", "name": "OVA", "slug": "ova" },
+		{ "content_type_id": "animes", "name": "ONA", "slug": "ona" },
+		{ "content_type_id": "animes", "name": "Movie", "slug": "movie" },
+		{
+			"content_type_id": "animes",
+			"name": "Short-Form",
+			"slug": "short-form"
+		},
+		{
+			"content_type_id": "animes",
+			"name": "School Setting",
+			"slug": "school-setting"
+		},
+		{
+			"content_type_id": "animes",
+			"name": "Music-Themed",
+			"slug": "music-themed"
+		},
+		{ "content_type_id": "animes", "name": "Fantasy", "slug": "fantasy" },
+		{
+			"content_type_id": "animes",
+			"name": "Supernatural",
+			"slug": "supernatural"
+		},
+		{
+			"content_type_id": "animes",
+			"name": "Slice of Life",
+			"slug": "slice-of-life"
+		},
+		{ "content_type_id": "animes", "name": "School", "slug": "school" },
+		{ "content_type_id": "animes", "name": "Sports", "slug": "sports" },
+		{ "content_type_id": "animes", "name": "Mecha", "slug": "mecha" },
+		{ "content_type_id": "animes", "name": "Isekai", "slug": "isekai" },
+		{ "content_type_id": "animes", "name": "Harem", "slug": "harem" },
+		{ "content_type_id": "animes", "name": "Ecchi", "slug": "ecchi" },
+		{ "content_type_id": "animes", "name": "Yuri", "slug": "yuri" },
+		{ "content_type_id": "animes", "name": "Yaoi", "slug": "yaoi" },
+		{
+			"content_type_id": "animes",
+			"name": "Magical Girl",
+			"slug": "magical-girl"
+		},
+		{
+			"content_type_id": "animes",
+			"name": "Historical",
+			"slug": "historical"
+		},
+		{ "content_type_id": "animes", "name": "Military", "slug": "military" },
+		{ "content_type_id": "animes", "name": "Music", "slug": "music" },
+		{ "content_type_id": "animes", "name": "Parody", "slug": "parody" },
+		{ "content_type_id": "animes", "name": "Vampire", "slug": "vampire" },
+		{ "content_type_id": "animes", "name": "Demon", "slug": "demon" },
+		{ "content_type_id": "animes", "name": "Ninja", "slug": "ninja" },
+		{ "content_type_id": "animes", "name": "Samurai", "slug": "samurai" },
+		{
+			"content_type_id": "animes",
+			"name": "Post-Apocalyptic",
+			"slug": "post-apocalyptic"
+		},
+		{
+			"content_type_id": "animes",
+			"name": "Cyberpunk",
+			"slug": "cyberpunk"
+		},
+		{
+			"content_type_id": "animes",
+			"name": "Time Travel",
+			"slug": "time-travel"
+		}
+	],
+	"content_metadata_attributes": [
+		{
+			"content_type_id": "animes",
+			"name": "franchise",
+			"attribute_type": "text",
+			"is_array": 0,
+			"description": "Franchise"
+		},
+		{
+			"content_type_id": "animes",
+			"name": "original_title",
+			"attribute_type": "text",
+			"is_array": 0,
+			"description": "Original Title"
+		},
+		{
+			"content_type_id": "animes",
+			"name": "year",
+			"attribute_type": "text",
+			"is_array": 0,
+			"description": "Release Year"
+		},
+		{
+			"content_type_id": "animes",
+			"name": "episodes",
+			"attribute_type": "number",
+			"is_array": 0,
+			"description": "Total Episodes"
+		},
+		{
+			"content_type_id": "animes",
+			"name": "scraped_url",
+			"attribute_type": "text",
+			"is_array": 0,
+			"description": "Scraped URL"
+		},
+		{
+			"content_type_id": "animes",
+			"name": "poster",
+			"attribute_type": "text",
+			"is_array": 0,
+			"description": "Poster"
+		},
+		{
+			"content_type_id": "animes",
+			"name": "trailer",
+			"attribute_type": "text",
+			"is_array": 0,
+			"description": "Trailer"
+		},
+		{
+			"content_type_id": "animes",
+			"name": "duration",
+			"attribute_type": "number",
+			"is_array": 0,
+			"description": "Duration per Episode"
+		},
+		{
+			"content_type_id": "animes",
+			"name": "studios",
+			"attribute_type": "text",
+			"is_array": 1,
+			"description": "Animation Studios"
+		},
+		{
+			"content_type_id": "animes",
+			"name": "mal_id",
+			"attribute_type": "number",
+			"is_array": 0,
+			"description": "MyAnimeList ID"
+		},
+		{
+			"content_type_id": "animes",
+			"name": "mal_rating",
+			"attribute_type": "number",
+			"is_array": 0,
+			"description": "MyAnimeList Rating"
+		},
+		{
+			"content_type_id": "animes",
+			"name": "other_images",
+			"attribute_type": "text",
+			"is_array": 0,
+			"description": "Additional Images"
+		},
+		{
+			"content_type_id": "animes",
+			"name": "plot",
+			"attribute_type": "text",
+			"is_array": 0,
+			"description": "Plot"
+		}
+	]
 }

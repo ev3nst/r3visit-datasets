@@ -1,340 +1,340 @@
 {
-  "content_type": {
-    "name": "Movies",
-    "slug": "movies",
-    "shape": "rectangular",
-    "file_type": "video",
-    "description": "My personal movie collection where I store and organize all my favorite films, from blockbusters to indie gems.",
-    "cover": null,
-    "icon": null,
-    "order": null,
-    "pinned": 0,
-    "docked": 0,
-    "locked": 0
-  },
-  "categories": [
-    {
-      "content_type_id": "movies",
-      "name": "Horror",
-      "slug": "horror",
-      "description": "Movies that make me sleep with the lights on"
-    },
-    {
-      "content_type_id": "movies",
-      "name": "Animation",
-      "slug": "animation",
-      "description": "Animated films that bring stories to life"
-    },
-    {
-      "content_type_id": "movies",
-      "name": "Drama",
-      "slug": "drama",
-      "description": "Character-driven stories that make me feel things"
-    },
-    {
-      "content_type_id": "movies",
-      "name": "Comedy",
-      "slug": "comedy",
-      "description": "Films that make me laugh out loud"
-    },
-    {
-      "content_type_id": "movies",
-      "name": "Action",
-      "slug": "action",
-      "description": "High-octane films with thrilling sequences"
-    },
-    {
-      "content_type_id": "movies",
-      "name": "Thriller",
-      "slug": "thriller",
-      "description": "Edge-of-my-seat suspenseful movies"
-    },
-    {
-      "content_type_id": "movies",
-      "name": "Sci-Fi",
-      "slug": "sci-fi",
-      "description": "Science fiction films that explore the future and beyond"
-    },
-    {
-      "content_type_id": "movies",
-      "name": "Romance",
-      "slug": "romance",
-      "description": "Love stories that warm my heart"
-    },
-    {
-      "content_type_id": "movies",
-      "name": "Documentary",
-      "slug": "documentary",
-      "description": "Real-world stories and educational content"
-    },
-    {
-      "content_type_id": "movies",
-      "name": "Crime",
-      "slug": "crime",
-      "description": "Stories of criminals, detectives, and justice"
-    }
-  ],
-  "tags": [
-    {
-      "content_type_id": "movies",
-      "name": "Western",
-      "slug": "western",
-      "description": "Tales from the American frontier"
-    },
-    {
-      "content_type_id": "movies",
-      "name": "War",
-      "slug": "war",
-      "description": "Stories of conflict and heroism"
-    },
-    {
-      "content_type_id": "movies",
-      "name": "Adventure",
-      "slug": "adventure"
-    },
-    {
-      "content_type_id": "movies",
-      "name": "Post-Apocalyptic",
-      "slug": "post-apocalyptic"
-    },
-    {
-      "content_type_id": "movies",
-      "name": "Superhero",
-      "slug": "superhero"
-    },
-    {
-      "content_type_id": "movies",
-      "name": "Fantasy",
-      "slug": "fantasy"
-    },
-    {
-      "content_type_id": "movies",
-      "name": "Mystery",
-      "slug": "mystery"
-    },
-    {
-      "content_type_id": "movies",
-      "name": "Psychological",
-      "slug": "psychological"
-    },
-    {
-      "content_type_id": "movies",
-      "name": "Musical",
-      "slug": "musical"
-    },
-    {
-      "content_type_id": "movies",
-      "name": "Biography",
-      "slug": "biography"
-    },
-    {
-      "content_type_id": "movies",
-      "name": "Historical",
-      "slug": "historical"
-    },
-    {
-      "content_type_id": "movies",
-      "name": "Sports",
-      "slug": "sports"
-    },
-    {
-      "content_type_id": "movies",
-      "name": "Family",
-      "slug": "family"
-    },
-    {
-      "content_type_id": "movies",
-      "name": "Coming-of-Age",
-      "slug": "coming-of-age"
-    },
-    {
-      "content_type_id": "movies",
-      "name": "Heist",
-      "slug": "heist"
-    },
-    {
-      "content_type_id": "movies",
-      "name": "Zombie",
-      "slug": "zombie"
-    },
-    {
-      "content_type_id": "movies",
-      "name": "Vampire",
-      "slug": "vampire"
-    },
-    {
-      "content_type_id": "movies",
-      "name": "Slasher",
-      "slug": "slasher"
-    },
-    {
-      "content_type_id": "movies",
-      "name": "Martial Arts",
-      "slug": "martial-arts"
-    },
-    {
-      "content_type_id": "movies",
-      "name": "Time Travel",
-      "slug": "time-travel"
-    },
-    {
-      "content_type_id": "movies",
-      "name": "Dystopian",
-      "slug": "dystopian"
-    },
-    {
-      "content_type_id": "movies",
-      "name": "Supernatural",
-      "slug": "supernatural"
-    },
-    {
-      "content_type_id": "movies",
-      "name": "Monster",
-      "slug": "monster"
-    },
-    {
-      "content_type_id": "movies",
-      "name": "Espionage",
-      "slug": "espionage"
-    },
+	"content_type": {
+		"name": "Movies",
+		"slug": "movies",
+		"shape": "rectangular",
+		"file_type": "video",
+		"description": "My personal movie collection where I store and organize all my favorite films, from blockbusters to indie gems.",
+		"cover": null,
+		"icon": null,
+		"order": null,
+		"pinned": 0,
+		"docked": 0,
+		"locked": 0
+	},
+	"categories": [
+		{
+			"content_type_id": "movies",
+			"name": "Horror",
+			"slug": "horror",
+			"description": "Movies that make me sleep with the lights on"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Animation",
+			"slug": "animation",
+			"description": "Animated films that bring stories to life"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Drama",
+			"slug": "drama",
+			"description": "Character-driven stories that make me feel things"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Comedy",
+			"slug": "comedy",
+			"description": "Films that make me laugh out loud"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Action",
+			"slug": "action",
+			"description": "High-octane films with thrilling sequences"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Thriller",
+			"slug": "thriller",
+			"description": "Edge-of-my-seat suspenseful movies"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Sci-Fi",
+			"slug": "sci-fi",
+			"description": "Science fiction films that explore the future and beyond"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Romance",
+			"slug": "romance",
+			"description": "Love stories that warm my heart"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Documentary",
+			"slug": "documentary",
+			"description": "Real-world stories and educational content"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Crime",
+			"slug": "crime",
+			"description": "Stories of criminals, detectives, and justice"
+		}
+	],
+	"tags": [
+		{
+			"content_type_id": "movies",
+			"name": "Western",
+			"slug": "western",
+			"description": "Tales from the American frontier"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "War",
+			"slug": "war",
+			"description": "Stories of conflict and heroism"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Adventure",
+			"slug": "adventure"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Post-Apocalyptic",
+			"slug": "post-apocalyptic"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Superhero",
+			"slug": "superhero"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Fantasy",
+			"slug": "fantasy"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Mystery",
+			"slug": "mystery"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Psychological",
+			"slug": "psychological"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Musical",
+			"slug": "musical"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Biography",
+			"slug": "biography"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Historical",
+			"slug": "historical"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Sports",
+			"slug": "sports"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Family",
+			"slug": "family"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Coming-of-Age",
+			"slug": "coming-of-age"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Heist",
+			"slug": "heist"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Zombie",
+			"slug": "zombie"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Vampire",
+			"slug": "vampire"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Slasher",
+			"slug": "slasher"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Martial Arts",
+			"slug": "martial-arts"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Time Travel",
+			"slug": "time-travel"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Dystopian",
+			"slug": "dystopian"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Supernatural",
+			"slug": "supernatural"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Monster",
+			"slug": "monster"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Espionage",
+			"slug": "espionage"
+		},
 
-    {
-      "content_type_id": "movies",
-      "name": "Political",
-      "slug": "political",
-      "description": "Films focused on political systems, leaders, or activism"
-    },
-    {
-      "content_type_id": "movies",
-      "name": "Parody",
-      "slug": "parody",
-      "description": "Comedic takes that spoof other genres or films"
-    },
-    {
-      "content_type_id": "movies",
-      "name": "Mythology",
-      "slug": "mythology",
-      "description": "Stories based on mythic or legendary origins"
-    },
-    {
-      "content_type_id": "movies",
-      "name": "Mockumentary",
-      "slug": "mockumentary",
-      "description": "Fictional stories told in a documentary style"
-    }
-  ],
-  "content_metadata_attributes": [
-    {
-      "content_type_id": "movies",
-      "name": "plot",
-      "attribute_type": "text",
-      "is_array": 0,
-      "description": "Plot"
-    },
-    {
-      "content_type_id": "movies",
-      "name": "directors",
-      "attribute_type": "text",
-      "is_array": 1,
-      "description": "Directors"
-    },
-    {
-      "content_type_id": "movies",
-      "name": "actors",
-      "attribute_type": "text",
-      "is_array": 1,
-      "description": "Actors"
-    },
-    {
-      "content_type_id": "movies",
-      "name": "writers",
-      "attribute_type": "text",
-      "is_array": 1,
-      "description": "Writers"
-    },
-    {
-      "content_type_id": "movies",
-      "name": "imdb_id",
-      "attribute_type": "number",
-      "is_array": 0,
-      "description": "IMDB ID"
-    },
-    {
-      "content_type_id": "movies",
-      "name": "tmdb_id",
-      "attribute_type": "number",
-      "is_array": 0,
-      "description": "TMDB ID"
-    },
-    {
-      "content_type_id": "movies",
-      "name": "scraped_url",
-      "attribute_type": "text",
-      "is_array": 0,
-      "description": "Scraped URL"
-    },
-    {
-      "content_type_id": "movies",
-      "name": "franchise",
-      "attribute_type": "text",
-      "is_array": 0,
-      "description": "Franchise"
-    },
-    {
-      "content_type_id": "movies",
-      "name": "release_date",
-      "attribute_type": "text",
-      "is_array": 0,
-      "description": "Release Date"
-    },
-    {
-      "content_type_id": "movies",
-      "name": "release_year",
-      "attribute_type": "text",
-      "is_array": 0,
-      "description": "Release Year"
-    },
-    {
-      "content_type_id": "movies",
-      "name": "poster",
-      "attribute_type": "text",
-      "is_array": 0,
-      "description": "Poster"
-    },
-    {
-      "content_type_id": "movies",
-      "name": "other_images",
-      "attribute_type": "text",
-      "is_array": 0,
-      "description": "Additional Images"
-    },
-    {
-      "content_type_id": "movies",
-      "name": "trailer",
-      "attribute_type": "text",
-      "is_array": 0,
-      "description": "Trailer"
-    },
-    {
-      "content_type_id": "movies",
-      "name": "runtime",
-      "attribute_type": "number",
-      "is_array": 0,
-      "description": "Runtime"
-    },
-    {
-      "content_type_id": "movies",
-      "name": "country",
-      "attribute_type": "text",
-      "is_array": 0,
-      "description": "Country"
-    },
-    {
-      "content_type_id": "movies",
-      "name": "language",
-      "attribute_type": "text",
-      "is_array": 0,
-      "description": "Language"
-    }
-  ]
+		{
+			"content_type_id": "movies",
+			"name": "Political",
+			"slug": "political",
+			"description": "Films focused on political systems, leaders, or activism"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Parody",
+			"slug": "parody",
+			"description": "Comedic takes that spoof other genres or films"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Mythology",
+			"slug": "mythology",
+			"description": "Stories based on mythic or legendary origins"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Mockumentary",
+			"slug": "mockumentary",
+			"description": "Fictional stories told in a documentary style"
+		}
+	],
+	"content_metadata_attributes": [
+		{
+			"content_type_id": "movies",
+			"name": "plot",
+			"attribute_type": "text",
+			"is_array": 0,
+			"description": "Plot"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "directors",
+			"attribute_type": "text",
+			"is_array": 1,
+			"description": "Directors"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "actors",
+			"attribute_type": "text",
+			"is_array": 1,
+			"description": "Actors"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "writers",
+			"attribute_type": "text",
+			"is_array": 1,
+			"description": "Writers"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "imdb_id",
+			"attribute_type": "number",
+			"is_array": 0,
+			"description": "IMDB ID"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "tmdb_id",
+			"attribute_type": "number",
+			"is_array": 0,
+			"description": "TMDB ID"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "scraped_url",
+			"attribute_type": "text",
+			"is_array": 0,
+			"description": "Scraped URL"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "franchise",
+			"attribute_type": "text",
+			"is_array": 0,
+			"description": "Franchise"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "release_date",
+			"attribute_type": "text",
+			"is_array": 0,
+			"description": "Release Date"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "release_year",
+			"attribute_type": "text",
+			"is_array": 0,
+			"description": "Release Year"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "poster",
+			"attribute_type": "text",
+			"is_array": 0,
+			"description": "Poster"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "other_images",
+			"attribute_type": "text",
+			"is_array": 0,
+			"description": "Additional Images"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "trailer",
+			"attribute_type": "text",
+			"is_array": 0,
+			"description": "Trailer"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "runtime",
+			"attribute_type": "number",
+			"is_array": 0,
+			"description": "Runtime"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "country",
+			"attribute_type": "text",
+			"is_array": 0,
+			"description": "Country"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "language",
+			"attribute_type": "text",
+			"is_array": 0,
+			"description": "Language"
+		}
+	]
 }

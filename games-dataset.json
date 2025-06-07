@@ -1,427 +1,511 @@
 {
-  "content_type": {
-    "name": "Games",
-    "slug": "games",
-    "shape": "rectangular",
-    "file_type": "binary",
-    "description": "My personal game collection where I catalog all the digital adventures that have entertained me.",
-    "cover": null,
-    "icon": null,
-    "order": null,
-    "pinned": 0,
-    "docked": 0,
-    "locked": 0
-  },
-  "categories": [
-    { "content_type_id": "games", "name": "Adventure", "slug": "adventure" },
-    { "content_type_id": "games", "name": "Action", "slug": "action" },
-    { "content_type_id": "games", "name": "RPG", "slug": "rpg" },
-    { "content_type_id": "games", "name": "Strategy", "slug": "strategy" },
-    { "content_type_id": "games", "name": "Simulation", "slug": "simulation" },
-    { "content_type_id": "games", "name": "Sports", "slug": "sports" },
-    { "content_type_id": "games", "name": "Racing", "slug": "racing" },
-    { "content_type_id": "games", "name": "Fighting", "slug": "fighting" },
-    { "content_type_id": "games", "name": "Shooter", "slug": "shooter" },
-    { "content_type_id": "games", "name": "Puzzle", "slug": "puzzle" },
-    { "content_type_id": "games", "name": "Horror", "slug": "horror" },
-    { "content_type_id": "games", "name": "MMO", "slug": "mmo" }
-  ],
-  "tags": [
-    {
-      "content_type_id": "games",
-      "name": "Action-Adventure",
-      "slug": "action-adventure"
-    },
-    { "content_type_id": "games", "name": "Arcade", "slug": "arcade" },
-    { "content_type_id": "games", "name": "Platformer", "slug": "platformer" },
-    { "content_type_id": "games", "name": "Action RPG", "slug": "action-rpg" },
-    {
-      "content_type_id": "games",
-      "name": "Action Roguelike",
-      "slug": "action-roguelike"
-    },
-    { "content_type_id": "games", "name": "Roguelike", "slug": "roguelike" },
-    { "content_type_id": "games", "name": "Sandbox", "slug": "sandbox" },
-    { "content_type_id": "games", "name": "Beat 'em up", "slug": "beat-em-up" },
-    { "content_type_id": "games", "name": "2D Fighter", "slug": "2d-fighter" },
-    { "content_type_id": "games", "name": "3D Fighter", "slug": "3d-fighter" },
-    {
-      "content_type_id": "games",
-      "name": "Tower Defense",
-      "slug": "tower-defense"
-    },
-    {
-      "content_type_id": "games",
-      "name": "Walking Simulator",
-      "slug": "walking-simulator"
-    },
-    { "content_type_id": "games", "name": "JRPG", "slug": "jrpg" },
-    { "content_type_id": "games", "name": "Rhythm", "slug": "rhythm" },
-    { "content_type_id": "games", "name": "RTS", "slug": "rts" },
-    {
-      "content_type_id": "games",
-      "name": "Battle Royale",
-      "slug": "battle-royale"
-    },
-    {
-      "content_type_id": "games",
-      "name": "Visual Novel",
-      "slug": "visual-novel"
-    },
-    { "content_type_id": "games", "name": "eSports", "slug": "esports" },
-    {
-      "content_type_id": "games",
-      "name": "Point & Click",
-      "slug": "point-click"
-    },
-    { "content_type_id": "games", "name": "Space Sim", "slug": "space-sim" },
-    {
-      "content_type_id": "games",
-      "name": "Interactive Fiction",
-      "slug": "interactive-fiction"
-    },
-    {
-      "content_type_id": "games",
-      "name": "Automobile Sim",
-      "slug": "automobile-sim"
-    },
-    {
-      "content_type_id": "games",
-      "name": "Turn-Based Strategy",
-      "slug": "turn-based-strategy"
-    },
-    {
-      "content_type_id": "games",
-      "name": "Strategy RPG",
-      "slug": "strategy-rpg"
-    },
-    { "content_type_id": "games", "name": "MMORPG", "slug": "mmorpg" },
-    { "content_type_id": "games", "name": "Life Sim", "slug": "life-sim" },
-    { "content_type_id": "games", "name": "Education", "slug": "education" },
-    {
-      "content_type_id": "games",
-      "name": "Party-Based RPG",
-      "slug": "party-based-rpg"
-    },
-    { "content_type_id": "games", "name": "MOBA", "slug": "moba" },
-    { "content_type_id": "games", "name": "Card Game", "slug": "card-game" },
-    { "content_type_id": "games", "name": "Dating Sim", "slug": "dating-sim" },
-    {
-      "content_type_id": "games",
-      "name": "Auto Battler",
-      "slug": "auto-battler"
-    },
-    {
-      "content_type_id": "games",
-      "name": "City Builder",
-      "slug": "city-builder"
-    },
-    { "content_type_id": "games", "name": "Board Game", "slug": "board-game" },
-    {
-      "content_type_id": "games",
-      "name": "Grand Strategy",
-      "slug": "grand-strategy"
-    },
-    {
-      "content_type_id": "games",
-      "name": "Farming Sim",
-      "slug": "farming-sim"
-    },
-    { "content_type_id": "games", "name": "Tabletop", "slug": "tabletop" },
-    { "content_type_id": "games", "name": "God Game", "slug": "god-game" },
-    { "content_type_id": "games", "name": "Colony Sim", "slug": "colony-sim" },
-    { "content_type_id": "games", "name": "4X", "slug": "4x" },
-    { "content_type_id": "games", "name": "Trivia", "slug": "trivia" },
-    { "content_type_id": "games", "name": "Word Game", "slug": "word-game" },
-    {
-      "content_type_id": "games",
-      "name": "Exploration",
-      "slug": "exploration"
-    },
-    { "content_type_id": "games", "name": "FPS", "slug": "fps" },
-    {
-      "content_type_id": "games",
-      "name": "Shoot 'Em Up",
-      "slug": "shoot-em-up"
-    },
-    {
-      "content_type_id": "games",
-      "name": "2D Platformer",
-      "slug": "2d-platformer"
-    },
-    {
-      "content_type_id": "games",
-      "name": "Bullet Hell",
-      "slug": "bullet-hell"
-    },
-    {
-      "content_type_id": "games",
-      "name": "Hack and Slash",
-      "slug": "hack-and-slash"
-    },
-    { "content_type_id": "games", "name": "Roguelite", "slug": "roguelite" },
-    {
-      "content_type_id": "games",
-      "name": "Side Scroller",
-      "slug": "side-scroller"
-    },
-    {
-      "content_type_id": "games",
-      "name": "3D Platformer",
-      "slug": "3d-platformer"
-    },
-    {
-      "content_type_id": "games",
-      "name": "Top-Down Shooter",
-      "slug": "top-down-shooter"
-    },
-    {
-      "content_type_id": "games",
-      "name": "Third-Person Shooter",
-      "slug": "third-person-shooter"
-    },
-    {
-      "content_type_id": "games",
-      "name": "Arena Shooter",
-      "slug": "arena-shooter"
-    },
-    {
-      "content_type_id": "games",
-      "name": "Puzzle Platformer",
-      "slug": "puzzle-platformer"
-    },
-    {
-      "content_type_id": "games",
-      "name": "Dungeon Crawler",
-      "slug": "dungeon-crawler"
-    },
-    {
-      "content_type_id": "games",
-      "name": "Precision Platformer",
-      "slug": "precision-platformer"
-    },
-    {
-      "content_type_id": "games",
-      "name": "Metroidvania",
-      "slug": "metroidvania"
-    },
-    { "content_type_id": "games", "name": "Souls-like", "slug": "souls-like" },
-    {
-      "content_type_id": "games",
-      "name": "Twin Stick Shooter",
-      "slug": "twin-stick-shooter"
-    },
-    { "content_type_id": "games", "name": "Runner", "slug": "runner" },
-    {
-      "content_type_id": "games",
-      "name": "Immersive Sim",
-      "slug": "immersive-sim"
-    },
-    { "content_type_id": "games", "name": "Flight", "slug": "flight" },
-    {
-      "content_type_id": "games",
-      "name": "Hidden Object",
-      "slug": "hidden-object"
-    },
-    {
-      "content_type_id": "games",
-      "name": "Real Time Tactics",
-      "slug": "real-time-tactics"
-    },
-    {
-      "content_type_id": "games",
-      "name": "Collectathon",
-      "slug": "collectathon"
-    },
-    {
-      "content_type_id": "games",
-      "name": "Hero Shooter",
-      "slug": "hero-shooter"
-    },
-    { "content_type_id": "games", "name": "Wargame", "slug": "wargame" },
-    {
-      "content_type_id": "games",
-      "name": "Spectacle fighter",
-      "slug": "spectacle-fighter"
-    },
-    {
-      "content_type_id": "games",
-      "name": "Choose Your Own Adventure",
-      "slug": "choose-your-own-adventure"
-    },
-    {
-      "content_type_id": "games",
-      "name": "Looter Shooter",
-      "slug": "looter-shooter"
-    },
-    {
-      "content_type_id": "games",
-      "name": "Combat Racing",
-      "slug": "combat-racing"
-    },
-    {
-      "content_type_id": "games",
-      "name": "Boomer Shooter",
-      "slug": "boomer-shooter"
-    },
-    {
-      "content_type_id": "games",
-      "name": "Tactical RPG",
-      "slug": "tactical-rpg"
-    },
-    {
-      "content_type_id": "games",
-      "name": "Time Management",
-      "slug": "time-management"
-    },
-    {
-      "content_type_id": "games",
-      "name": "Turn-Based Tactics",
-      "slug": "turn-based-tactics"
-    },
-    {
-      "content_type_id": "games",
-      "name": "Mystery Dungeon",
-      "slug": "mystery-dungeon"
-    },
-    { "content_type_id": "games", "name": "Action RTS", "slug": "action-rts" },
-    { "content_type_id": "games", "name": "Clicker", "slug": "clicker" },
-    { "content_type_id": "games", "name": "CRPG", "slug": "crpg" },
-    {
-      "content_type_id": "games",
-      "name": "On-Rails Shooter",
-      "slug": "on-rails-shooter"
-    },
-    { "content_type_id": "games", "name": "Idler", "slug": "idler" },
-    {
-      "content_type_id": "games",
-      "name": "Creature Collector",
-      "slug": "creature-collector"
-    },
-    {
-      "content_type_id": "games",
-      "name": "Card Battler",
-      "slug": "card-battler"
-    },
-    { "content_type_id": "games", "name": "Roguevania", "slug": "roguevania" },
-    { "content_type_id": "games", "name": "Match 3", "slug": "match-3" },
-    { "content_type_id": "games", "name": "Typing", "slug": "typing" },
-    {
-      "content_type_id": "games",
-      "name": "Outbreak Sim",
-      "slug": "outbreak-sim"
-    },
-    {
-      "content_type_id": "games",
-      "name": "Traditional Roguelike",
-      "slug": "traditional-roguelike"
-    },
-    { "content_type_id": "games", "name": "Sokoban", "slug": "sokoban" },
-    { "content_type_id": "games", "name": "Solitaire", "slug": "solitaire" },
-    {
-      "content_type_id": "games",
-      "name": "Trading Card Game",
-      "slug": "trading-card-game"
-    },
-    {
-      "content_type_id": "games",
-      "name": "Political Sim",
-      "slug": "political-sim"
-    },
-    { "content_type_id": "games", "name": "Spelling", "slug": "spelling" },
-    { "content_type_id": "games", "name": "Medical Sim", "slug": "medical-sim" }
-  ],
-  "content_metadata_attributes": [
-    {
-      "content_type_id": "games",
-      "name": "scraped_url",
-      "attribute_type": "text",
-      "is_array": 0,
-      "description": "Scraped URL"
-    },
-    {
-      "content_type_id": "games",
-      "name": "franchise",
-      "attribute_type": "text",
-      "is_array": 0,
-      "description": "Franchise"
-    },
-    {
-      "content_type_id": "games",
-      "name": "about",
-      "attribute_type": "text",
-      "is_array": 0,
-      "description": "About the Game"
-    },
-    {
-      "content_type_id": "games",
-      "name": "release_date",
-      "attribute_type": "text",
-      "is_array": 0,
-      "description": "Release Date"
-    },
-    {
-      "content_type_id": "games",
-      "name": "release_year",
-      "attribute_type": "text",
-      "is_array": 0,
-      "description": "Release Year"
-    },
-    {
-      "content_type_id": "games",
-      "name": "developers",
-      "attribute_type": "text",
-      "is_array": 1,
-      "description": "Developers"
-    },
-    {
-      "content_type_id": "games",
-      "name": "publishers",
-      "attribute_type": "text",
-      "is_array": 1,
-      "description": "Publishers"
-    },
-    {
-      "content_type_id": "games",
-      "name": "poster",
-      "attribute_type": "text",
-      "is_array": 0,
-      "description": "Poster"
-    },
-    {
-      "content_type_id": "games",
-      "name": "trailer",
-      "attribute_type": "text",
-      "is_array": 0,
-      "description": "Trailer"
-    },
-    {
-      "content_type_id": "games",
-      "name": "other_images",
-      "attribute_type": "text",
-      "is_array": 0,
-      "description": "Additional Images"
-    },
-    {
-      "content_type_id": "games",
-      "name": "steam_id",
-      "attribute_type": "number",
-      "is_array": 0,
-      "description": "Steam App ID"
-    },
-    {
-      "content_type_id": "games",
-      "name": "system_requirements",
-      "attribute_type": "text",
-      "is_array": 0,
-      "description": "System Requirements"
-    },
-    {
-      "content_type_id": "games",
-      "name": "playtime",
-      "attribute_type": "number",
-      "is_array": 0,
-      "description": "Personal Playtime (hours)"
-    }
-  ]
+	"content_type": {
+		"name": "Games",
+		"slug": "games",
+		"shape": "rectangular",
+		"file_type": "binary",
+		"description": "My personal game collection where I catalog all the digital adventures that have entertained me.",
+		"cover": null,
+		"icon": null,
+		"order": null,
+		"pinned": 0,
+		"docked": 0,
+		"locked": 0
+	},
+	"categories": [
+		{
+			"content_type_id": "games",
+			"name": "Adventure",
+			"slug": "adventure"
+		},
+		{ "content_type_id": "games", "name": "Action", "slug": "action" },
+		{ "content_type_id": "games", "name": "RPG", "slug": "rpg" },
+		{ "content_type_id": "games", "name": "Strategy", "slug": "strategy" },
+		{
+			"content_type_id": "games",
+			"name": "Simulation",
+			"slug": "simulation"
+		},
+		{ "content_type_id": "games", "name": "Sports", "slug": "sports" },
+		{ "content_type_id": "games", "name": "Racing", "slug": "racing" },
+		{ "content_type_id": "games", "name": "Fighting", "slug": "fighting" },
+		{ "content_type_id": "games", "name": "Shooter", "slug": "shooter" },
+		{ "content_type_id": "games", "name": "Puzzle", "slug": "puzzle" },
+		{ "content_type_id": "games", "name": "Horror", "slug": "horror" },
+		{ "content_type_id": "games", "name": "MMO", "slug": "mmo" }
+	],
+	"tags": [
+		{
+			"content_type_id": "games",
+			"name": "Action-Adventure",
+			"slug": "action-adventure"
+		},
+		{ "content_type_id": "games", "name": "Arcade", "slug": "arcade" },
+		{
+			"content_type_id": "games",
+			"name": "Platformer",
+			"slug": "platformer"
+		},
+		{
+			"content_type_id": "games",
+			"name": "Action RPG",
+			"slug": "action-rpg"
+		},
+		{
+			"content_type_id": "games",
+			"name": "Action Roguelike",
+			"slug": "action-roguelike"
+		},
+		{
+			"content_type_id": "games",
+			"name": "Roguelike",
+			"slug": "roguelike"
+		},
+		{ "content_type_id": "games", "name": "Sandbox", "slug": "sandbox" },
+		{
+			"content_type_id": "games",
+			"name": "Beat 'em up",
+			"slug": "beat-em-up"
+		},
+		{
+			"content_type_id": "games",
+			"name": "2D Fighter",
+			"slug": "2d-fighter"
+		},
+		{
+			"content_type_id": "games",
+			"name": "3D Fighter",
+			"slug": "3d-fighter"
+		},
+		{
+			"content_type_id": "games",
+			"name": "Tower Defense",
+			"slug": "tower-defense"
+		},
+		{
+			"content_type_id": "games",
+			"name": "Walking Simulator",
+			"slug": "walking-simulator"
+		},
+		{ "content_type_id": "games", "name": "JRPG", "slug": "jrpg" },
+		{ "content_type_id": "games", "name": "Rhythm", "slug": "rhythm" },
+		{ "content_type_id": "games", "name": "RTS", "slug": "rts" },
+		{
+			"content_type_id": "games",
+			"name": "Battle Royale",
+			"slug": "battle-royale"
+		},
+		{
+			"content_type_id": "games",
+			"name": "Visual Novel",
+			"slug": "visual-novel"
+		},
+		{ "content_type_id": "games", "name": "eSports", "slug": "esports" },
+		{
+			"content_type_id": "games",
+			"name": "Point & Click",
+			"slug": "point-click"
+		},
+		{
+			"content_type_id": "games",
+			"name": "Space Sim",
+			"slug": "space-sim"
+		},
+		{
+			"content_type_id": "games",
+			"name": "Interactive Fiction",
+			"slug": "interactive-fiction"
+		},
+		{
+			"content_type_id": "games",
+			"name": "Automobile Sim",
+			"slug": "automobile-sim"
+		},
+		{
+			"content_type_id": "games",
+			"name": "Turn-Based Strategy",
+			"slug": "turn-based-strategy"
+		},
+		{
+			"content_type_id": "games",
+			"name": "Strategy RPG",
+			"slug": "strategy-rpg"
+		},
+		{ "content_type_id": "games", "name": "MMORPG", "slug": "mmorpg" },
+		{ "content_type_id": "games", "name": "Life Sim", "slug": "life-sim" },
+		{
+			"content_type_id": "games",
+			"name": "Education",
+			"slug": "education"
+		},
+		{
+			"content_type_id": "games",
+			"name": "Party-Based RPG",
+			"slug": "party-based-rpg"
+		},
+		{ "content_type_id": "games", "name": "MOBA", "slug": "moba" },
+		{
+			"content_type_id": "games",
+			"name": "Card Game",
+			"slug": "card-game"
+		},
+		{
+			"content_type_id": "games",
+			"name": "Dating Sim",
+			"slug": "dating-sim"
+		},
+		{
+			"content_type_id": "games",
+			"name": "Auto Battler",
+			"slug": "auto-battler"
+		},
+		{
+			"content_type_id": "games",
+			"name": "City Builder",
+			"slug": "city-builder"
+		},
+		{
+			"content_type_id": "games",
+			"name": "Board Game",
+			"slug": "board-game"
+		},
+		{
+			"content_type_id": "games",
+			"name": "Grand Strategy",
+			"slug": "grand-strategy"
+		},
+		{
+			"content_type_id": "games",
+			"name": "Farming Sim",
+			"slug": "farming-sim"
+		},
+		{ "content_type_id": "games", "name": "Tabletop", "slug": "tabletop" },
+		{ "content_type_id": "games", "name": "God Game", "slug": "god-game" },
+		{
+			"content_type_id": "games",
+			"name": "Colony Sim",
+			"slug": "colony-sim"
+		},
+		{ "content_type_id": "games", "name": "4X", "slug": "4x" },
+		{ "content_type_id": "games", "name": "Trivia", "slug": "trivia" },
+		{
+			"content_type_id": "games",
+			"name": "Word Game",
+			"slug": "word-game"
+		},
+		{
+			"content_type_id": "games",
+			"name": "Exploration",
+			"slug": "exploration"
+		},
+		{ "content_type_id": "games", "name": "FPS", "slug": "fps" },
+		{
+			"content_type_id": "games",
+			"name": "Shoot 'Em Up",
+			"slug": "shoot-em-up"
+		},
+		{
+			"content_type_id": "games",
+			"name": "2D Platformer",
+			"slug": "2d-platformer"
+		},
+		{
+			"content_type_id": "games",
+			"name": "Bullet Hell",
+			"slug": "bullet-hell"
+		},
+		{
+			"content_type_id": "games",
+			"name": "Hack and Slash",
+			"slug": "hack-and-slash"
+		},
+		{
+			"content_type_id": "games",
+			"name": "Roguelite",
+			"slug": "roguelite"
+		},
+		{
+			"content_type_id": "games",
+			"name": "Side Scroller",
+			"slug": "side-scroller"
+		},
+		{
+			"content_type_id": "games",
+			"name": "3D Platformer",
+			"slug": "3d-platformer"
+		},
+		{
+			"content_type_id": "games",
+			"name": "Top-Down Shooter",
+			"slug": "top-down-shooter"
+		},
+		{
+			"content_type_id": "games",
+			"name": "Third-Person Shooter",
+			"slug": "third-person-shooter"
+		},
+		{
+			"content_type_id": "games",
+			"name": "Arena Shooter",
+			"slug": "arena-shooter"
+		},
+		{
+			"content_type_id": "games",
+			"name": "Puzzle Platformer",
+			"slug": "puzzle-platformer"
+		},
+		{
+			"content_type_id": "games",
+			"name": "Dungeon Crawler",
+			"slug": "dungeon-crawler"
+		},
+		{
+			"content_type_id": "games",
+			"name": "Precision Platformer",
+			"slug": "precision-platformer"
+		},
+		{
+			"content_type_id": "games",
+			"name": "Metroidvania",
+			"slug": "metroidvania"
+		},
+		{
+			"content_type_id": "games",
+			"name": "Souls-like",
+			"slug": "souls-like"
+		},
+		{
+			"content_type_id": "games",
+			"name": "Twin Stick Shooter",
+			"slug": "twin-stick-shooter"
+		},
+		{ "content_type_id": "games", "name": "Runner", "slug": "runner" },
+		{
+			"content_type_id": "games",
+			"name": "Immersive Sim",
+			"slug": "immersive-sim"
+		},
+		{ "content_type_id": "games", "name": "Flight", "slug": "flight" },
+		{
+			"content_type_id": "games",
+			"name": "Hidden Object",
+			"slug": "hidden-object"
+		},
+		{
+			"content_type_id": "games",
+			"name": "Real Time Tactics",
+			"slug": "real-time-tactics"
+		},
+		{
+			"content_type_id": "games",
+			"name": "Collectathon",
+			"slug": "collectathon"
+		},
+		{
+			"content_type_id": "games",
+			"name": "Hero Shooter",
+			"slug": "hero-shooter"
+		},
+		{ "content_type_id": "games", "name": "Wargame", "slug": "wargame" },
+		{
+			"content_type_id": "games",
+			"name": "Spectacle fighter",
+			"slug": "spectacle-fighter"
+		},
+		{
+			"content_type_id": "games",
+			"name": "Choose Your Own Adventure",
+			"slug": "choose-your-own-adventure"
+		},
+		{
+			"content_type_id": "games",
+			"name": "Looter Shooter",
+			"slug": "looter-shooter"
+		},
+		{
+			"content_type_id": "games",
+			"name": "Combat Racing",
+			"slug": "combat-racing"
+		},
+		{
+			"content_type_id": "games",
+			"name": "Boomer Shooter",
+			"slug": "boomer-shooter"
+		},
+		{
+			"content_type_id": "games",
+			"name": "Tactical RPG",
+			"slug": "tactical-rpg"
+		},
+		{
+			"content_type_id": "games",
+			"name": "Time Management",
+			"slug": "time-management"
+		},
+		{
+			"content_type_id": "games",
+			"name": "Turn-Based Tactics",
+			"slug": "turn-based-tactics"
+		},
+		{
+			"content_type_id": "games",
+			"name": "Mystery Dungeon",
+			"slug": "mystery-dungeon"
+		},
+		{
+			"content_type_id": "games",
+			"name": "Action RTS",
+			"slug": "action-rts"
+		},
+		{ "content_type_id": "games", "name": "Clicker", "slug": "clicker" },
+		{ "content_type_id": "games", "name": "CRPG", "slug": "crpg" },
+		{
+			"content_type_id": "games",
+			"name": "On-Rails Shooter",
+			"slug": "on-rails-shooter"
+		},
+		{ "content_type_id": "games", "name": "Idler", "slug": "idler" },
+		{
+			"content_type_id": "games",
+			"name": "Creature Collector",
+			"slug": "creature-collector"
+		},
+		{
+			"content_type_id": "games",
+			"name": "Card Battler",
+			"slug": "card-battler"
+		},
+		{
+			"content_type_id": "games",
+			"name": "Roguevania",
+			"slug": "roguevania"
+		},
+		{ "content_type_id": "games", "name": "Match 3", "slug": "match-3" },
+		{ "content_type_id": "games", "name": "Typing", "slug": "typing" },
+		{
+			"content_type_id": "games",
+			"name": "Outbreak Sim",
+			"slug": "outbreak-sim"
+		},
+		{
+			"content_type_id": "games",
+			"name": "Traditional Roguelike",
+			"slug": "traditional-roguelike"
+		},
+		{ "content_type_id": "games", "name": "Sokoban", "slug": "sokoban" },
+		{
+			"content_type_id": "games",
+			"name": "Solitaire",
+			"slug": "solitaire"
+		},
+		{
+			"content_type_id": "games",
+			"name": "Trading Card Game",
+			"slug": "trading-card-game"
+		},
+		{
+			"content_type_id": "games",
+			"name": "Political Sim",
+			"slug": "political-sim"
+		},
+		{ "content_type_id": "games", "name": "Spelling", "slug": "spelling" },
+		{
+			"content_type_id": "games",
+			"name": "Medical Sim",
+			"slug": "medical-sim"
+		}
+	],
+	"content_metadata_attributes": [
+		{
+			"content_type_id": "games",
+			"name": "scraped_url",
+			"attribute_type": "text",
+			"is_array": 0,
+			"description": "Scraped URL"
+		},
+		{
+			"content_type_id": "games",
+			"name": "franchise",
+			"attribute_type": "text",
+			"is_array": 0,
+			"description": "Franchise"
+		},
+		{
+			"content_type_id": "games",
+			"name": "about",
+			"attribute_type": "text",
+			"is_array": 0,
+			"description": "About the Game"
+		},
+		{
+			"content_type_id": "games",
+			"name": "release_date",
+			"attribute_type": "text",
+			"is_array": 0,
+			"description": "Release Date"
+		},
+		{
+			"content_type_id": "games",
+			"name": "release_year",
+			"attribute_type": "text",
+			"is_array": 0,
+			"description": "Release Year"
+		},
+		{
+			"content_type_id": "games",
+			"name": "developers",
+			"attribute_type": "text",
+			"is_array": 1,
+			"description": "Developers"
+		},
+		{
+			"content_type_id": "games",
+			"name": "publishers",
+			"attribute_type": "text",
+			"is_array": 1,
+			"description": "Publishers"
+		},
+		{
+			"content_type_id": "games",
+			"name": "poster",
+			"attribute_type": "text",
+			"is_array": 0,
+			"description": "Poster"
+		},
+		{
+			"content_type_id": "games",
+			"name": "trailer",
+			"attribute_type": "text",
+			"is_array": 0,
+			"description": "Trailer"
+		},
+		{
+			"content_type_id": "games",
+			"name": "other_images",
+			"attribute_type": "text",
+			"is_array": 0,
+			"description": "Additional Images"
+		},
+		{
+			"content_type_id": "games",
+			"name": "steam_id",
+			"attribute_type": "number",
+			"is_array": 0,
+			"description": "Steam App ID"
+		},
+		{
+			"content_type_id": "games",
+			"name": "system_requirements",
+			"attribute_type": "text",
+			"is_array": 0,
+			"description": "System Requirements"
+		},
+		{
+			"content_type_id": "games",
+			"name": "playtime",
+			"attribute_type": "number",
+			"is_array": 0,
+			"description": "Personal Playtime (hours)"
+		}
+	]
 }
