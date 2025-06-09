@@ -12,9 +12,9 @@
 		"slug": "games",
 		"shape": "rectangular",
 		"file_type": "binary",
-		"description": "My personal game collection where I catalog all the digital adventures that have entertained me.",
-		"cover": null,
-		"icon": null,
+		"description": "Digital adventures that have entertained me.",
+		"cover": "game-cover.webp",
+		"icon": "gamepad-2",
 		"order": null,
 		"pinned": 0,
 		"docked": 0,
@@ -429,6 +429,8 @@
 			"name": "scraped_url",
 			"attribute_type": "text",
 			"is_array": 0,
+			"filterable": 0,
+			"sortable": 0,
 			"description": "Scraped URL"
 		},
 		{
@@ -436,6 +438,8 @@
 			"name": "franchise",
 			"attribute_type": "text",
 			"is_array": 0,
+			"filterable": 1,
+			"sortable": 0,
 			"description": "Franchise"
 		},
 		{
@@ -443,6 +447,8 @@
 			"name": "about",
 			"attribute_type": "text",
 			"is_array": 0,
+			"filterable": 1,
+			"sortable": 0,
 			"description": "About the Game"
 		},
 		{
@@ -450,13 +456,17 @@
 			"name": "release_date",
 			"attribute_type": "text",
 			"is_array": 0,
+			"filterable": 1,
+			"sortable": 1,
 			"description": "Release Date"
 		},
 		{
 			"content_type_id": "games",
 			"name": "release_year",
-			"attribute_type": "text",
+			"attribute_type": "number",
 			"is_array": 0,
+			"filterable": 1,
+			"sortable": 1,
 			"description": "Release Year"
 		},
 		{
@@ -464,6 +474,8 @@
 			"name": "developers",
 			"attribute_type": "text",
 			"is_array": 1,
+			"filterable": 1,
+			"sortable": 0,
 			"description": "Developers"
 		},
 		{
@@ -471,6 +483,8 @@
 			"name": "publishers",
 			"attribute_type": "text",
 			"is_array": 1,
+			"filterable": 1,
+			"sortable": 0,
 			"description": "Publishers"
 		},
 		{
@@ -478,6 +492,8 @@
 			"name": "poster",
 			"attribute_type": "text",
 			"is_array": 0,
+			"filterable": 0,
+			"sortable": 0,
 			"description": "Poster"
 		},
 		{
@@ -485,6 +501,8 @@
 			"name": "trailer",
 			"attribute_type": "text",
 			"is_array": 0,
+			"filterable": 0,
+			"sortable": 0,
 			"description": "Trailer"
 		},
 		{
@@ -492,6 +510,8 @@
 			"name": "other_images",
 			"attribute_type": "text",
 			"is_array": 0,
+			"filterable": 0,
+			"sortable": 0,
 			"description": "Additional Images"
 		},
 		{
@@ -499,6 +519,8 @@
 			"name": "steam_id",
 			"attribute_type": "number",
 			"is_array": 0,
+			"filterable": 0,
+			"sortable": 0,
 			"description": "Steam App ID"
 		},
 		{
@@ -506,14 +528,9 @@
 			"name": "system_requirements",
 			"attribute_type": "text",
 			"is_array": 0,
+			"filterable": 0,
+			"sortable": 0,
 			"description": "System Requirements"
-		},
-		{
-			"content_type_id": "games",
-			"name": "playtime",
-			"attribute_type": "number",
-			"is_array": 0,
-			"description": "Personal Playtime (hours)"
 		}
 	]
 }
