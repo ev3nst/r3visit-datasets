@@ -15,9 +15,9 @@
 		"description": "My favorite films, from blockbusters to indie gems.",
 		"cover": "movie-cover.webp",
 		"icon": "film",
-		"order": null,
+		"order": 0,
 		"pinned": 0,
-		"docked": 0,
+		"docked": 1,
 		"locked": 0
 	},
 	"categories": [
@@ -234,71 +234,10 @@
 	"content_metadata_attributes": [
 		{
 			"content_type_id": "movies",
-			"name": "Plot",
-			"attribute_type": "text",
-			"is_array": 0,
-			"filterable": 1,
-			"sortable": 0,
-			"description": ""
-		},
-		{
-			"content_type_id": "movies",
-			"name": "Directors",
-			"attribute_type": "text",
-			"is_array": 1,
-			"filterable": 1,
-			"sortable": 0,
-			"description": ""
-		},
-		{
-			"content_type_id": "movies",
-			"name": "Actors",
-			"attribute_type": "text",
-			"is_array": 1,
-			"filterable": 1,
-			"sortable": 0,
-			"description": ""
-		},
-		{
-			"content_type_id": "movies",
-			"name": "writers",
-			"attribute_type": "text",
-			"is_array": 1,
-			"filterable": 1,
-			"sortable": 0,
-			"description": ""
-		},
-		{
-			"content_type_id": "movies",
-			"name": "IMDB ID",
-			"attribute_type": "number",
-			"is_array": 0,
-			"filterable": 0,
-			"sortable": 0,
-			"description": ""
-		},
-		{
-			"content_type_id": "movies",
-			"name": "TMDB ID",
-			"attribute_type": "number",
-			"is_array": 0,
-			"filterable": 0,
-			"sortable": 0,
-			"description": ""
-		},
-		{
-			"content_type_id": "movies",
-			"name": "Scraped URL",
-			"attribute_type": "text",
-			"is_array": 0,
-			"filterable": 0,
-			"sortable": 0,
-			"description": ""
-		},
-		{
-			"content_type_id": "movies",
 			"name": "Franchise",
 			"attribute_type": "text",
+			"icon": "",
+			"order": 0,
 			"is_array": 0,
 			"filterable": 1,
 			"sortable": 0,
@@ -308,6 +247,8 @@
 			"content_type_id": "movies",
 			"name": "Release Date",
 			"attribute_type": "date",
+			"icon": "",
+			"order": 1,
 			"is_array": 0,
 			"filterable": 1,
 			"sortable": 1,
@@ -317,6 +258,8 @@
 			"content_type_id": "movies",
 			"name": "Release Year",
 			"attribute_type": "number",
+			"icon": "",
+			"order": 2,
 			"is_array": 0,
 			"filterable": 1,
 			"sortable": 1,
@@ -324,35 +267,10 @@
 		},
 		{
 			"content_type_id": "movies",
-			"name": "Poster",
-			"attribute_type": "text",
-			"is_array": 0,
-			"filterable": 0,
-			"sortable": 0,
-			"description": ""
-		},
-		{
-			"content_type_id": "movies",
-			"name": "Additional Images",
-			"attribute_type": "text",
-			"is_array": 0,
-			"filterable": 0,
-			"sortable": 0,
-			"description": ""
-		},
-		{
-			"content_type_id": "movies",
-			"name": "Trailer",
-			"attribute_type": "text",
-			"is_array": 0,
-			"filterable": 0,
-			"sortable": 0,
-			"description": ""
-		},
-		{
-			"content_type_id": "movies",
 			"name": "Runtime",
 			"attribute_type": "number",
+			"icon": "",
+			"order": 3,
 			"is_array": 0,
 			"filterable": 0,
 			"sortable": 0,
@@ -362,6 +280,8 @@
 			"content_type_id": "movies",
 			"name": "Country",
 			"attribute_type": "text",
+			"icon": "",
+			"order": 4,
 			"is_array": 0,
 			"filterable": 1,
 			"sortable": 0,
@@ -371,8 +291,120 @@
 			"content_type_id": "movies",
 			"name": "Language",
 			"attribute_type": "text",
+			"icon": "",
+			"order": 5,
 			"is_array": 0,
 			"filterable": 1,
+			"sortable": 0,
+			"description": ""
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Plot",
+			"attribute_type": "text",
+			"icon": "",
+			"order": 6,
+			"is_array": 0,
+			"filterable": 1,
+			"sortable": 0,
+			"description": ""
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Directors",
+			"attribute_type": "text",
+			"icon": "",
+			"order": 7,
+			"is_array": 1,
+			"filterable": 1,
+			"sortable": 0,
+			"description": ""
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Writers",
+			"attribute_type": "text",
+			"icon": "",
+			"order": 8,
+			"is_array": 1,
+			"filterable": 1,
+			"sortable": 0,
+			"description": ""
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Actors",
+			"attribute_type": "text",
+			"icon": "",
+			"order": 9,
+			"is_array": 1,
+			"filterable": 1,
+			"sortable": 0,
+			"description": ""
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Poster",
+			"attribute_type": "text",
+			"icon": "",
+			"order": 10,
+			"is_array": 0,
+			"filterable": 0,
+			"sortable": 0,
+			"description": ""
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Trailer",
+			"attribute_type": "text",
+			"icon": "",
+			"order": 11,
+			"is_array": 0,
+			"filterable": 0,
+			"sortable": 0,
+			"description": ""
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Additional Images",
+			"attribute_type": "text",
+			"icon": "",
+			"order": 12,
+			"is_array": 0,
+			"filterable": 0,
+			"sortable": 0,
+			"description": ""
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Scraped URL",
+			"attribute_type": "text",
+			"icon": "",
+			"order": 13,
+			"is_array": 0,
+			"filterable": 0,
+			"sortable": 0,
+			"description": ""
+		},
+		{
+			"content_type_id": "movies",
+			"name": "IMDB ID",
+			"attribute_type": "number",
+			"icon": "",
+			"order": 14,
+			"is_array": 0,
+			"filterable": 0,
+			"sortable": 0,
+			"description": ""
+		},
+		{
+			"content_type_id": "movies",
+			"name": "TMDB ID",
+			"attribute_type": "number",
+			"icon": "",
+			"order": 15,
+			"is_array": 0,
+			"filterable": 0,
 			"sortable": 0,
 			"description": ""
 		}
