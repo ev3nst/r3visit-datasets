@@ -135,129 +135,129 @@
 	"content_metadata_attributes": [
 		{
 			"content_type_id": "animes",
-			"name": "franchise",
+			"name": "Franchise",
 			"attribute_type": "text",
 			"is_array": 0,
 			"filterable": 1,
 			"sortable": 0,
-			"description": "Franchise"
+			"description": ""
 		},
 		{
 			"content_type_id": "animes",
-			"name": "original_title",
+			"name": "Original Title",
 			"attribute_type": "text",
 			"is_array": 0,
 			"filterable": 1,
 			"sortable": 0,
-			"description": "Original Title"
+			"description": ""
 		},
 		{
 			"content_type_id": "animes",
-			"name": "release_year",
+			"name": "Release Year",
 			"attribute_type": "number",
 			"is_array": 0,
 			"filterable": 1,
 			"sortable": 1,
-			"description": "Release Year"
+			"description": ""
 		},
 		{
 			"content_type_id": "animes",
-			"name": "episodes",
+			"name": "Episodes",
 			"attribute_type": "number",
 			"is_array": 0,
 			"filterable": 1,
 			"sortable": 1,
-			"description": "Total Episodes"
+			"description": ""
 		},
 		{
 			"content_type_id": "animes",
-			"name": "scraped_url",
+			"name": "Scraped URL",
 			"attribute_type": "text",
 			"is_array": 0,
 			"filterable": 0,
 			"sortable": 0,
-			"description": "Scraped URL"
+			"description": ""
 		},
 		{
 			"content_type_id": "animes",
-			"name": "poster",
+			"name": "Poster",
 			"attribute_type": "text",
 			"is_array": 0,
 			"filterable": 0,
 			"sortable": 0,
-			"description": "Poster"
+			"description": ""
 		},
 		{
 			"content_type_id": "animes",
-			"name": "trailer",
+			"name": "Trailer",
 			"attribute_type": "text",
 			"is_array": 0,
 			"filterable": 0,
 			"sortable": 0,
-			"description": "Trailer"
+			"description": ""
 		},
 		{
 			"content_type_id": "animes",
-			"name": "duration",
+			"name": "Duration",
 			"attribute_type": "number",
 			"is_array": 0,
 			"filterable": 0,
 			"sortable": 0,
-			"description": "Duration per Episode"
+			"description": ""
 		},
 		{
 			"content_type_id": "animes",
-			"name": "studios",
+			"name": "Studios",
 			"attribute_type": "text",
 			"is_array": 1,
 			"filterable": 1,
 			"sortable": 0,
-			"description": "Animation Studios"
+			"description": ""
 		},
 		{
 			"content_type_id": "animes",
-			"name": "tmdb_id",
+			"name": "TMDB ID",
 			"attribute_type": "number",
 			"is_array": 0,
 			"filterable": 0,
 			"sortable": 0,
-			"description": "TMDB ID"
+			"description": ""
 		},
 		{
 			"content_type_id": "animes",
-			"name": "mal_id",
+			"name": "MyAnimeList ID",
 			"attribute_type": "number",
 			"is_array": 0,
 			"filterable": 0,
 			"sortable": 0,
-			"description": "MyAnimeList ID"
+			"description": ""
 		},
 		{
 			"content_type_id": "animes",
-			"name": "mal_rating",
+			"name": "MyAnimeList Rating",
 			"attribute_type": "number",
 			"is_array": 0,
 			"filterable": 1,
 			"sortable": 1,
-			"description": "MyAnimeList Rating"
+			"description": ""
 		},
 		{
 			"content_type_id": "animes",
-			"name": "other_images",
+			"name": "Additional Images",
 			"attribute_type": "text",
 			"is_array": 0,
 			"filterable": 0,
 			"sortable": 0,
-			"description": "Additional Images"
+			"description": ""
 		},
 		{
 			"content_type_id": "animes",
-			"name": "plot",
+			"name": "Plot",
 			"attribute_type": "text",
 			"is_array": 0,
 			"filterable": 1,
 			"sortable": 0,
-			"description": "Plot"
+			"description": ""
 		}
 	]
 }

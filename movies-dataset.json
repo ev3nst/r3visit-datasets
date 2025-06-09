@@ -234,30 +234,30 @@
 	"content_metadata_attributes": [
 		{
 			"content_type_id": "movies",
-			"name": "plot",
+			"name": "Plot",
 			"attribute_type": "text",
 			"is_array": 0,
 			"filterable": 1,
 			"sortable": 0,
-			"description": "Plot"
+			"description": ""
 		},
 		{
 			"content_type_id": "movies",
-			"name": "directors",
+			"name": "Directors",
 			"attribute_type": "text",
 			"is_array": 1,
 			"filterable": 1,
 			"sortable": 0,
-			"description": "Directors"
+			"description": ""
 		},
 		{
 			"content_type_id": "movies",
-			"name": "actors",
+			"name": "Actors",
 			"attribute_type": "text",
 			"is_array": 1,
 			"filterable": 1,
 			"sortable": 0,
-			"description": "Actors"
+			"description": ""
 		},
 		{
 			"content_type_id": "movies",
@@ -266,115 +266,115 @@
 			"is_array": 1,
 			"filterable": 1,
 			"sortable": 0,
-			"description": "Writers"
+			"description": ""
 		},
 		{
 			"content_type_id": "movies",
-			"name": "imdb_id",
+			"name": "IMDB ID",
 			"attribute_type": "number",
 			"is_array": 0,
 			"filterable": 0,
 			"sortable": 0,
-			"description": "IMDB ID"
+			"description": ""
 		},
 		{
 			"content_type_id": "movies",
-			"name": "tmdb_id",
+			"name": "TMDB ID",
 			"attribute_type": "number",
 			"is_array": 0,
 			"filterable": 0,
 			"sortable": 0,
-			"description": "TMDB ID"
+			"description": ""
 		},
 		{
 			"content_type_id": "movies",
-			"name": "scraped_url",
+			"name": "Scraped URL",
 			"attribute_type": "text",
 			"is_array": 0,
 			"filterable": 0,
 			"sortable": 0,
-			"description": "Scraped URL"
+			"description": ""
 		},
 		{
 			"content_type_id": "movies",
-			"name": "franchise",
+			"name": "Franchise",
 			"attribute_type": "text",
 			"is_array": 0,
 			"filterable": 1,
 			"sortable": 0,
-			"description": "Franchise"
+			"description": ""
 		},
 		{
 			"content_type_id": "movies",
-			"name": "release_date",
+			"name": "Release Date",
 			"attribute_type": "date",
 			"is_array": 0,
 			"filterable": 1,
 			"sortable": 1,
-			"description": "Release Date"
+			"description": ""
 		},
 		{
 			"content_type_id": "movies",
-			"name": "release_year",
+			"name": "Release Year",
 			"attribute_type": "number",
 			"is_array": 0,
 			"filterable": 1,
 			"sortable": 1,
-			"description": "Release Year"
+			"description": ""
 		},
 		{
 			"content_type_id": "movies",
-			"name": "poster",
+			"name": "Poster",
 			"attribute_type": "text",
 			"is_array": 0,
 			"filterable": 0,
 			"sortable": 0,
-			"description": "Poster"
+			"description": ""
 		},
 		{
 			"content_type_id": "movies",
-			"name": "other_images",
+			"name": "Additional Images",
 			"attribute_type": "text",
 			"is_array": 0,
 			"filterable": 0,
 			"sortable": 0,
-			"description": "Additional Images"
+			"description": ""
 		},
 		{
 			"content_type_id": "movies",
-			"name": "trailer",
+			"name": "Trailer",
 			"attribute_type": "text",
 			"is_array": 0,
 			"filterable": 0,
 			"sortable": 0,
-			"description": "Trailer"
+			"description": ""
 		},
 		{
 			"content_type_id": "movies",
-			"name": "runtime",
+			"name": "Runtime",
 			"attribute_type": "number",
 			"is_array": 0,
 			"filterable": 0,
 			"sortable": 0,
-			"description": "Runtime"
+			"description": ""
 		},
 		{
 			"content_type_id": "movies",
-			"name": "country",
+			"name": "Country",
 			"attribute_type": "text",
 			"is_array": 0,
 			"filterable": 1,
 			"sortable": 0,
-			"description": "Country"
+			"description": ""
 		},
 		{
 			"content_type_id": "movies",
-			"name": "language",
+			"name": "Language",
 			"attribute_type": "text",
 			"is_array": 0,
 			"filterable": 1,
 			"sortable": 0,
-			"description": "Language"
+			"description": ""
 		}
 	]
 }
