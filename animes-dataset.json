@@ -28,28 +28,47 @@
 			"slug": "adventure"
 		},
 		{ "content_type_id": "animes", "name": "Comedy", "slug": "comedy" },
-		{ "content_type_id": "animes", "name": "Drama", "slug": "drama" },
+		{
+			"content_type_id": "animes",
+			"name": "Drama",
+			"slug": "drama",
+			"description": "Anime focused on emotional storytelling and character development."
+		},
 		{
 			"content_type_id": "animes",
 			"name": "Romance",
-			"slug": "romance"
+			"slug": "romance",
+			"description": "Anime centered around romantic relationships."
 		},
-		{ "content_type_id": "animes", "name": "Sci-Fi", "slug": "sci-fi" },
-		{ "content_type_id": "animes", "name": "Horror", "slug": "horror" },
+		{
+			"content_type_id": "animes",
+			"name": "Sci-Fi",
+			"slug": "sci-fi",
+			"description": "Anime featuring science fiction themes and futuristic settings."
+		},
+		{
+			"content_type_id": "animes",
+			"name": "Horror",
+			"slug": "horror",
+			"description": "Anime designed to scare or unsettle the viewer."
+		},
 		{
 			"content_type_id": "animes",
 			"name": "Thriller",
-			"slug": "thriller"
+			"slug": "thriller",
+			"description": "Anime with suspenseful and exciting plots."
 		},
 		{
 			"content_type_id": "animes",
 			"name": "Mystery",
-			"slug": "mystery"
+			"slug": "mystery",
+			"description": "Anime focused on solving puzzles or uncovering secrets."
 		},
 		{
 			"content_type_id": "animes",
 			"name": "Psychological",
-			"slug": "psychological"
+			"slug": "psychological",
+			"description": "Anime exploring the human mind and complex emotions."
 		}
 	],
 	"tags": [

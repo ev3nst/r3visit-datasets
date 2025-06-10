@@ -24,23 +24,75 @@
 		{
 			"content_type_id": "games",
 			"name": "Adventure",
-			"slug": "adventure"
+			"slug": "adventure",
+			"description": "Games that focus on exploration, story, and puzzle-solving."
 		},
-		{ "content_type_id": "games", "name": "Action", "slug": "action" },
-		{ "content_type_id": "games", "name": "RPG", "slug": "rpg" },
-		{ "content_type_id": "games", "name": "Strategy", "slug": "strategy" },
+		{
+			"content_type_id": "games",
+			"name": "Action",
+			"slug": "action",
+			"description": "Games emphasizing physical challenges and hand-eye coordination."
+		},
+		{
+			"content_type_id": "games",
+			"name": "RPG",
+			"slug": "rpg",
+			"description": "Role-playing games where players control characters in a fictional setting."
+		},
+		{
+			"content_type_id": "games",
+			"name": "Strategy",
+			"slug": "strategy",
+			"description": "Games that emphasize planning and skillful thinking to achieve victory."
+		},
 		{
 			"content_type_id": "games",
 			"name": "Simulation",
-			"slug": "simulation"
+			"slug": "simulation",
+			"description": "Games that simulate real-world or fictional activities."
 		},
-		{ "content_type_id": "games", "name": "Sports", "slug": "sports" },
-		{ "content_type_id": "games", "name": "Racing", "slug": "racing" },
-		{ "content_type_id": "games", "name": "Fighting", "slug": "fighting" },
-		{ "content_type_id": "games", "name": "Shooter", "slug": "shooter" },
-		{ "content_type_id": "games", "name": "Puzzle", "slug": "puzzle" },
-		{ "content_type_id": "games", "name": "Horror", "slug": "horror" },
-		{ "content_type_id": "games", "name": "MMO", "slug": "mmo" }
+		{
+			"content_type_id": "games",
+			"name": "Sports",
+			"slug": "sports",
+			"description": "Games that simulate playing sports."
+		},
+		{
+			"content_type_id": "games",
+			"name": "Racing",
+			"slug": "racing",
+			"description": "Games focused on racing competitions."
+		},
+		{
+			"content_type_id": "games",
+			"name": "Fighting",
+			"slug": "fighting",
+			"description": "Games centered around close combat between characters."
+		},
+		{
+			"content_type_id": "games",
+			"name": "Shooter",
+			"slug": "shooter",
+			"description": "Games focused on shooting enemies or targets."
+		},
+		{
+			"content_type_id": "games",
+			"name": "Puzzle",
+			"slug": "puzzle",
+			"description": "Games that challenge problem-solving skills."
+		},
+		{
+			"content_type_id": "games",
+			"name": "Horror",
+			"slug": "horror",
+			"description": "Games designed to scare or unsettle the player."
+		},
+		{
+			"content_type_id": "games",
+			"name": "MMO",
+			"slug": "mmo",
+			"description": "Massively multiplayer online games with large player communities."
+		}
 	],
 	"tags": [
 		{
