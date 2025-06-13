@@ -98,112 +98,134 @@
 		{
 			"content_type_id": "movies",
 			"name": "Adventure",
-			"slug": "adventure"
+			"slug": "adventure",
+			"description": "Exciting journeys and thrilling quests"
 		},
 		{
 			"content_type_id": "movies",
 			"name": "Post-Apocalyptic",
-			"slug": "post-apocalyptic"
+			"slug": "post-apocalyptic",
+			"description": "Stories set after the end of civilization"
 		},
 		{
 			"content_type_id": "movies",
 			"name": "Superhero",
-			"slug": "superhero"
+			"slug": "superhero",
+			"description": "Heroes with extraordinary powers saving the day"
 		},
 		{
 			"content_type_id": "movies",
 			"name": "Fantasy",
-			"slug": "fantasy"
+			"slug": "fantasy",
+			"description": "Magical worlds and mythical creatures"
 		},
 		{
 			"content_type_id": "movies",
 			"name": "Mystery",
-			"slug": "mystery"
+			"slug": "mystery",
+			"description": "Puzzles to solve and secrets to uncover"
 		},
 		{
 			"content_type_id": "movies",
 			"name": "Psychological",
-			"slug": "psychological"
+			"slug": "psychological",
+			"description": "Mind-bending films that explore the human psyche"
 		},
 		{
 			"content_type_id": "movies",
 			"name": "Musical",
-			"slug": "musical"
+			"slug": "musical",
+			"description": "Stories told through song and dance"
 		},
 		{
 			"content_type_id": "movies",
 			"name": "Biography",
-			"slug": "biography"
+			"slug": "biography",
+			"description": "Real-life stories of remarkable people"
 		},
 		{
 			"content_type_id": "movies",
 			"name": "Historical",
-			"slug": "historical"
+			"slug": "historical",
+			"description": "Films set in significant periods of the past"
 		},
 		{
 			"content_type_id": "movies",
 			"name": "Sports",
-			"slug": "sports"
+			"slug": "sports",
+			"description": "Athletic competition and sporting triumphs"
 		},
 		{
 			"content_type_id": "movies",
 			"name": "Family",
-			"slug": "family"
+			"slug": "family",
+			"description": "Wholesome entertainment for all ages"
 		},
 		{
 			"content_type_id": "movies",
 			"name": "Coming-of-Age",
-			"slug": "coming-of-age"
+			"slug": "coming-of-age",
+			"description": "Stories of growing up and self-discovery"
 		},
 		{
 			"content_type_id": "movies",
 			"name": "Heist",
-			"slug": "heist"
+			"slug": "heist",
+			"description": "Elaborate schemes and criminal masterplans"
 		},
 		{
 			"content_type_id": "movies",
 			"name": "Zombie",
-			"slug": "zombie"
+			"slug": "zombie",
+			"description": "Undead creatures and survival horror"
 		},
 		{
 			"content_type_id": "movies",
 			"name": "Vampire",
-			"slug": "vampire"
+			"slug": "vampire",
+			"description": "Blood-sucking creatures of the night"
 		},
 		{
 			"content_type_id": "movies",
 			"name": "Slasher",
-			"slug": "slasher"
+			"slug": "slasher",
+			"description": "Masked killers and gruesome murders"
 		},
 		{
 			"content_type_id": "movies",
 			"name": "Martial Arts",
-			"slug": "martial-arts"
+			"slug": "martial-arts",
+			"description": "Combat skills and fighting techniques"
 		},
 		{
 			"content_type_id": "movies",
 			"name": "Time Travel",
-			"slug": "time-travel"
+			"slug": "time-travel",
+			"description": "Journey through past, present, and future"
 		},
 		{
 			"content_type_id": "movies",
 			"name": "Dystopian",
-			"slug": "dystopian"
+			"slug": "dystopian",
+			"description": "Dark visions of oppressive future societies"
 		},
 		{
 			"content_type_id": "movies",
 			"name": "Supernatural",
-			"slug": "supernatural"
+			"slug": "supernatural",
+			"description": "Ghosts, spirits, and otherworldly phenomena"
 		},
 		{
 			"content_type_id": "movies",
 			"name": "Monster",
-			"slug": "monster"
+			"slug": "monster",
+			"description": "Creatures that terrorize and threaten humanity"
 		},
 		{
 			"content_type_id": "movies",
 			"name": "Espionage",
-			"slug": "espionage"
+			"slug": "espionage",
+			"description": "Spies, secrets, and international intrigue"
 		},
 
 		{

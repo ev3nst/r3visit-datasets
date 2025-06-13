@@ -98,381 +98,572 @@
 		{
 			"content_type_id": "games",
 			"name": "Action-Adventure",
-			"slug": "action-adventure"
+			"slug": "action-adventure",
+			"description": "Combines fast-paced action with exploration and story"
 		},
-		{ "content_type_id": "games", "name": "Arcade", "slug": "arcade" },
+		{
+			"content_type_id": "games",
+			"name": "Arcade",
+			"slug": "arcade",
+			"description": "Classic coin-op style games with simple controls"
+		},
 		{
 			"content_type_id": "games",
 			"name": "Platformer",
-			"slug": "platformer"
+			"slug": "platformer",
+			"description": "Jump between platforms to navigate levels"
 		},
 		{
 			"content_type_id": "games",
 			"name": "Action RPG",
-			"slug": "action-rpg"
+			"slug": "action-rpg",
+			"description": "Real-time combat meets character progression"
 		},
 		{
 			"content_type_id": "games",
 			"name": "Action Roguelike",
-			"slug": "action-roguelike"
+			"slug": "action-roguelike",
+			"description": "Fast-paced action with randomized levels and permadeath"
 		},
 		{
 			"content_type_id": "games",
 			"name": "Roguelike",
-			"slug": "roguelike"
+			"slug": "roguelike",
+			"description": "Turn-based gameplay with procedural generation and permadeath"
 		},
-		{ "content_type_id": "games", "name": "Sandbox", "slug": "sandbox" },
+		{
+			"content_type_id": "games",
+			"name": "Sandbox",
+			"slug": "sandbox",
+			"description": "Open-world creativity with minimal restrictions"
+		},
 		{
 			"content_type_id": "games",
 			"name": "Beat 'em up",
-			"slug": "beat-em-up"
+			"slug": "beat-em-up",
+			"description": "Brawling through waves of enemies with fists and weapons"
 		},
 		{
 			"content_type_id": "games",
 			"name": "2D Fighter",
-			"slug": "2d-fighter"
+			"slug": "2d-fighter",
+			"description": "One-on-one combat in a two-dimensional plane"
 		},
 		{
 			"content_type_id": "games",
 			"name": "3D Fighter",
-			"slug": "3d-fighter"
+			"slug": "3d-fighter",
+			"description": "Full 3D combat with movement in all directions"
 		},
 		{
 			"content_type_id": "games",
 			"name": "Tower Defense",
-			"slug": "tower-defense"
+			"slug": "tower-defense",
+			"description": "Defend your base by strategically placing defensive structures"
 		},
 		{
 			"content_type_id": "games",
 			"name": "Walking Simulator",
-			"slug": "walking-simulator"
+			"slug": "walking-simulator",
+			"description": "Exploration-focused games with minimal traditional gameplay"
 		},
-		{ "content_type_id": "games", "name": "JRPG", "slug": "jrpg" },
-		{ "content_type_id": "games", "name": "Rhythm", "slug": "rhythm" },
-		{ "content_type_id": "games", "name": "RTS", "slug": "rts" },
+		{
+			"content_type_id": "games",
+			"name": "JRPG",
+			"slug": "jrpg",
+			"description": "Japanese-style RPGs with turn-based combat and rich stories"
+		},
+		{
+			"content_type_id": "games",
+			"name": "Rhythm",
+			"slug": "rhythm",
+			"description": "Music-based gameplay requiring precise timing"
+		},
+		{
+			"content_type_id": "games",
+			"name": "RTS",
+			"slug": "rts",
+			"description": "Real-time strategy with resource management and unit control"
+		},
 		{
 			"content_type_id": "games",
 			"name": "Battle Royale",
-			"slug": "battle-royale"
+			"slug": "battle-royale",
+			"description": "Last player standing in a shrinking battlefield"
 		},
 		{
 			"content_type_id": "games",
 			"name": "Visual Novel",
-			"slug": "visual-novel"
+			"slug": "visual-novel",
+			"description": "Interactive fiction with branching storylines and choices"
 		},
-		{ "content_type_id": "games", "name": "eSports", "slug": "esports" },
+		{
+			"content_type_id": "games",
+			"name": "eSports",
+			"slug": "esports",
+			"description": "Competitive gaming designed for professional tournaments"
+		},
 		{
 			"content_type_id": "games",
 			"name": "Point & Click",
-			"slug": "point-click"
+			"slug": "point-click",
+			"description": "Adventure games controlled by clicking on objects and areas"
 		},
 		{
 			"content_type_id": "games",
 			"name": "Space Sim",
-			"slug": "space-sim"
+			"slug": "space-sim",
+			"description": "Realistic space exploration and spacecraft piloting"
 		},
 		{
 			"content_type_id": "games",
 			"name": "Interactive Fiction",
-			"slug": "interactive-fiction"
+			"slug": "interactive-fiction",
+			"description": "Text-based storytelling with player choices"
 		},
 		{
 			"content_type_id": "games",
 			"name": "Automobile Sim",
-			"slug": "automobile-sim"
+			"slug": "automobile-sim",
+			"description": "Realistic car driving and racing simulation"
 		},
 		{
 			"content_type_id": "games",
 			"name": "Turn-Based Strategy",
-			"slug": "turn-based-strategy"
+			"slug": "turn-based-strategy",
+			"description": "Strategic gameplay where players take turns making moves"
 		},
 		{
 			"content_type_id": "games",
 			"name": "Strategy RPG",
-			"slug": "strategy-rpg"
+			"slug": "strategy-rpg",
+			"description": "Tactical combat combined with RPG character development"
 		},
-		{ "content_type_id": "games", "name": "MMORPG", "slug": "mmorpg" },
-		{ "content_type_id": "games", "name": "Life Sim", "slug": "life-sim" },
+		{
+			"content_type_id": "games",
+			"name": "MMORPG",
+			"slug": "mmorpg",
+			"description": "Massive multiplayer online role-playing games"
+		},
+		{
+			"content_type_id": "games",
+			"name": "Life Sim",
+			"slug": "life-sim",
+			"description": "Simulate and manage virtual lives and relationships"
+		},
 		{
 			"content_type_id": "games",
 			"name": "Education",
-			"slug": "education"
+			"slug": "education",
+			"description": "Games designed to teach skills or knowledge"
 		},
 		{
 			"content_type_id": "games",
 			"name": "Party-Based RPG",
-			"slug": "party-based-rpg"
+			"slug": "party-based-rpg",
+			"description": "Control a group of characters working together"
 		},
-		{ "content_type_id": "games", "name": "MOBA", "slug": "moba" },
+		{
+			"content_type_id": "games",
+			"name": "MOBA",
+			"slug": "moba",
+			"description": "Multiplayer online battle arena with team-based strategy"
+		},
 		{
 			"content_type_id": "games",
 			"name": "Card Game",
-			"slug": "card-game"
+			"slug": "card-game",
+			"description": "Strategy games played with virtual card decks"
 		},
 		{
 			"content_type_id": "games",
 			"name": "Dating Sim",
-			"slug": "dating-sim"
+			"slug": "dating-sim",
+			"description": "Romance-focused games with relationship building"
 		},
 		{
 			"content_type_id": "games",
 			"name": "Auto Battler",
-			"slug": "auto-battler"
+			"slug": "auto-battler",
+			"description": "Strategic unit placement with automated combat"
 		},
 		{
 			"content_type_id": "games",
 			"name": "City Builder",
-			"slug": "city-builder"
+			"slug": "city-builder",
+			"description": "Design and manage urban development and infrastructure"
 		},
 		{
 			"content_type_id": "games",
 			"name": "Board Game",
-			"slug": "board-game"
+			"slug": "board-game",
+			"description": "Digital versions of traditional tabletop games"
 		},
 		{
 			"content_type_id": "games",
 			"name": "Grand Strategy",
-			"slug": "grand-strategy"
+			"slug": "grand-strategy",
+			"description": "Complex strategy games covering nations and empires"
 		},
 		{
 			"content_type_id": "games",
 			"name": "Farming Sim",
-			"slug": "farming-sim"
+			"slug": "farming-sim",
+			"description": "Agricultural simulation and crop management"
 		},
-		{ "content_type_id": "games", "name": "Tabletop", "slug": "tabletop" },
-		{ "content_type_id": "games", "name": "God Game", "slug": "god-game" },
+		{
+			"content_type_id": "games",
+			"name": "Tabletop",
+			"slug": "tabletop",
+			"description": "Digital adaptations of board and card games"
+		},
+		{
+			"content_type_id": "games",
+			"name": "God Game",
+			"slug": "god-game",
+			"description": "Control civilizations or worlds from a divine perspective"
+		},
 		{
 			"content_type_id": "games",
 			"name": "Colony Sim",
-			"slug": "colony-sim"
+			"slug": "colony-sim",
+			"description": "Build and manage settlements or colonies"
 		},
-		{ "content_type_id": "games", "name": "4X", "slug": "4x" },
-		{ "content_type_id": "games", "name": "Trivia", "slug": "trivia" },
+		{
+			"content_type_id": "games",
+			"name": "4X",
+			"slug": "4x",
+			"description": "Explore, expand, exploit, and exterminate strategy games"
+		},
+		{
+			"content_type_id": "games",
+			"name": "Trivia",
+			"slug": "trivia",
+			"description": "Question-and-answer knowledge-based games"
+		},
 		{
 			"content_type_id": "games",
 			"name": "Word Game",
-			"slug": "word-game"
+			"slug": "word-game",
+			"description": "Vocabulary and language-based puzzle games"
 		},
 		{
 			"content_type_id": "games",
 			"name": "Exploration",
-			"slug": "exploration"
+			"slug": "exploration",
+			"description": "Discover new areas and uncover hidden secrets"
 		},
-		{ "content_type_id": "games", "name": "FPS", "slug": "fps" },
+		{
+			"content_type_id": "games",
+			"name": "FPS",
+			"slug": "fps",
+			"description": "First-person shooting with immersive perspective"
+		},
 		{
 			"content_type_id": "games",
 			"name": "Shoot 'Em Up",
-			"slug": "shoot-em-up"
+			"slug": "shoot-em-up",
+			"description": "Fast-paced shooting with waves of enemies"
 		},
 		{
 			"content_type_id": "games",
 			"name": "2D Platformer",
-			"slug": "2d-platformer"
+			"slug": "2d-platformer",
+			"description": "Side-scrolling platform jumping in 2D environments"
 		},
 		{
 			"content_type_id": "games",
 			"name": "Bullet Hell",
-			"slug": "bullet-hell"
+			"slug": "bullet-hell",
+			"description": "Dodge intricate patterns of projectiles"
 		},
 		{
 			"content_type_id": "games",
 			"name": "Hack and Slash",
-			"slug": "hack-and-slash"
+			"slug": "hack-and-slash",
+			"description": "Melee combat with swords and weapons against hordes"
 		},
 		{
 			"content_type_id": "games",
 			"name": "Roguelite",
-			"slug": "roguelite"
+			"slug": "roguelite",
+			"description": "Roguelike elements with persistent progression between runs"
 		},
 		{
 			"content_type_id": "games",
 			"name": "Side Scroller",
-			"slug": "side-scroller"
+			"slug": "side-scroller",
+			"description": "2D games with horizontal scrolling movement"
 		},
 		{
 			"content_type_id": "games",
 			"name": "3D Platformer",
-			"slug": "3d-platformer"
+			"slug": "3d-platformer",
+			"description": "Three-dimensional jumping and climbing challenges"
 		},
 		{
 			"content_type_id": "games",
 			"name": "Top-Down Shooter",
-			"slug": "top-down-shooter"
+			"slug": "top-down-shooter",
+			"description": "Shooting action viewed from above"
 		},
 		{
 			"content_type_id": "games",
 			"name": "Third-Person Shooter",
-			"slug": "third-person-shooter"
+			"slug": "third-person-shooter",
+			"description": "Shooting games with behind-the-character view"
 		},
 		{
 			"content_type_id": "games",
 			"name": "Arena Shooter",
-			"slug": "arena-shooter"
+			"slug": "arena-shooter",
+			"description": "Fast-paced multiplayer combat in confined spaces"
 		},
 		{
 			"content_type_id": "games",
 			"name": "Puzzle Platformer",
-			"slug": "puzzle-platformer"
+			"slug": "puzzle-platformer",
+			"description": "Platform jumping combined with brain-teasing puzzles"
 		},
 		{
 			"content_type_id": "games",
 			"name": "Dungeon Crawler",
-			"slug": "dungeon-crawler"
+			"slug": "dungeon-crawler",
+			"description": "Explore maze-like dungeons fighting monsters and collecting loot"
 		},
 		{
 			"content_type_id": "games",
 			"name": "Precision Platformer",
-			"slug": "precision-platformer"
+			"slug": "precision-platformer",
+			"description": "Extremely challenging platforming requiring perfect timing"
 		},
 		{
 			"content_type_id": "games",
 			"name": "Metroidvania",
-			"slug": "metroidvania"
+			"slug": "metroidvania",
+			"description": "Interconnected world exploration with ability-gated progression"
 		},
 		{
 			"content_type_id": "games",
 			"name": "Souls-like",
-			"slug": "souls-like"
+			"slug": "souls-like",
+			"description": "Challenging action RPGs with punishing difficulty and stamina-based combat"
 		},
 		{
 			"content_type_id": "games",
 			"name": "Twin Stick Shooter",
-			"slug": "twin-stick-shooter"
+			"slug": "twin-stick-shooter",
+			"description": "Control movement and shooting independently with dual analog sticks"
 		},
-		{ "content_type_id": "games", "name": "Runner", "slug": "runner" },
+		{
+			"content_type_id": "games",
+			"name": "Runner",
+			"slug": "runner",
+			"description": "Endless running games with obstacle avoidance"
+		},
 		{
 			"content_type_id": "games",
 			"name": "Immersive Sim",
-			"slug": "immersive-sim"
+			"slug": "immersive-sim",
+			"description": "Open-ended gameplay with multiple solutions to problems"
 		},
-		{ "content_type_id": "games", "name": "Flight", "slug": "flight" },
+		{
+			"content_type_id": "games",
+			"name": "Flight",
+			"slug": "flight",
+			"description": "Aircraft piloting and aerial combat simulation"
+		},
 		{
 			"content_type_id": "games",
 			"name": "Hidden Object",
-			"slug": "hidden-object"
+			"slug": "hidden-object",
+			"description": "Find specific items hidden within detailed scenes"
 		},
 		{
 			"content_type_id": "games",
 			"name": "Real Time Tactics",
-			"slug": "real-time-tactics"
+			"slug": "real-time-tactics",
+			"description": "Tactical combat without economic base building"
 		},
 		{
 			"content_type_id": "games",
 			"name": "Collectathon",
-			"slug": "collectathon"
+			"slug": "collectathon",
+			"description": "Gather numerous items scattered throughout game worlds"
 		},
 		{
 			"content_type_id": "games",
 			"name": "Hero Shooter",
-			"slug": "hero-shooter"
+			"slug": "hero-shooter",
+			"description": "Team-based shooters with unique character abilities"
 		},
-		{ "content_type_id": "games", "name": "Wargame", "slug": "wargame" },
+		{
+			"content_type_id": "games",
+			"name": "Wargame",
+			"slug": "wargame",
+			"description": "Military strategy with realistic unit tactics and formations"
+		},
 		{
 			"content_type_id": "games",
 			"name": "Spectacle fighter",
-			"slug": "spectacle-fighter"
+			"slug": "spectacle-fighter",
+			"description": "Stylish action games emphasizing flashy combos and high scores"
 		},
 		{
 			"content_type_id": "games",
 			"name": "Choose Your Own Adventure",
-			"slug": "choose-your-own-adventure"
+			"slug": "choose-your-own-adventure",
+			"description": "Interactive narratives with branching story paths"
 		},
 		{
 			"content_type_id": "games",
 			"name": "Looter Shooter",
-			"slug": "looter-shooter"
+			"slug": "looter-shooter",
+			"description": "Shooting games focused on collecting and upgrading equipment"
 		},
 		{
 			"content_type_id": "games",
 			"name": "Combat Racing",
-			"slug": "combat-racing"
+			"slug": "combat-racing",
+			"description": "Racing with weapons and vehicular combat"
 		},
 		{
 			"content_type_id": "games",
 			"name": "Boomer Shooter",
-			"slug": "boomer-shooter"
+			"slug": "boomer-shooter",
+			"description": "Retro-style FPS games inspired by 90s classics"
 		},
 		{
 			"content_type_id": "games",
 			"name": "Tactical RPG",
-			"slug": "tactical-rpg"
+			"slug": "tactical-rpg",
+			"description": "Turn-based combat on grid-based battlefields with RPG elements"
 		},
 		{
 			"content_type_id": "games",
 			"name": "Time Management",
-			"slug": "time-management"
+			"slug": "time-management",
+			"description": "Complete tasks efficiently within time constraints"
 		},
 		{
 			"content_type_id": "games",
 			"name": "Turn-Based Tactics",
-			"slug": "turn-based-tactics"
+			"slug": "turn-based-tactics",
+			"description": "Strategic combat focused on positioning and tactics"
 		},
 		{
 			"content_type_id": "games",
 			"name": "Mystery Dungeon",
-			"slug": "mystery-dungeon"
+			"slug": "mystery-dungeon",
+			"description": "Procedurally generated dungeons with turn-based exploration"
 		},
 		{
 			"content_type_id": "games",
 			"name": "Action RTS",
-			"slug": "action-rts"
+			"slug": "action-rts",
+			"description": "Real-time strategy with direct unit control and action elements"
 		},
-		{ "content_type_id": "games", "name": "Clicker", "slug": "clicker" },
-		{ "content_type_id": "games", "name": "CRPG", "slug": "crpg" },
+		{
+			"content_type_id": "games",
+			"name": "Clicker",
+			"slug": "clicker",
+			"description": "Repetitive clicking for incremental progress and upgrades"
+		},
+		{
+			"content_type_id": "games",
+			"name": "CRPG",
+			"slug": "crpg",
+			"description": "Classic computer RPGs with deep character customization"
+		},
 		{
 			"content_type_id": "games",
 			"name": "On-Rails Shooter",
-			"slug": "on-rails-shooter"
+			"slug": "on-rails-shooter",
+			"description": "Shooting games with predetermined movement paths"
 		},
-		{ "content_type_id": "games", "name": "Idler", "slug": "idler" },
+		{
+			"content_type_id": "games",
+			"name": "Idler",
+			"slug": "idler",
+			"description": "Games that progress automatically with minimal player input"
+		},
 		{
 			"content_type_id": "games",
 			"name": "Creature Collector",
-			"slug": "creature-collector"
+			"slug": "creature-collector",
+			"description": "Collect, train, and battle with various creatures or monsters"
 		},
 		{
 			"content_type_id": "games",
 			"name": "Card Battler",
-			"slug": "card-battler"
+			"slug": "card-battler",
+			"description": "Combat system based on playing and managing cards"
 		},
 		{
 			"content_type_id": "games",
 			"name": "Roguevania",
-			"slug": "roguevania"
+			"slug": "roguevania",
+			"description": "Metroidvania exploration combined with roguelike elements"
 		},
-		{ "content_type_id": "games", "name": "Match 3", "slug": "match-3" },
-		{ "content_type_id": "games", "name": "Typing", "slug": "typing" },
+		{
+			"content_type_id": "games",
+			"name": "Match 3",
+			"slug": "match-3",
+			"description": "Puzzle games involving matching three or more similar items"
+		},
+		{
+			"content_type_id": "games",
+			"name": "Typing",
+			"slug": "typing",
+			"description": "Games that test and improve typing speed and accuracy"
+		},
 		{
 			"content_type_id": "games",
 			"name": "Outbreak Sim",
-			"slug": "outbreak-sim"
+			"slug": "outbreak-sim",
+			"description": "Simulate disease spread and pandemic management"
 		},
 		{
 			"content_type_id": "games",
 			"name": "Traditional Roguelike",
-			"slug": "traditional-roguelike"
+			"slug": "traditional-roguelike",
+			"description": "Classic roguelike with ASCII graphics and complex mechanics"
 		},
-		{ "content_type_id": "games", "name": "Sokoban", "slug": "sokoban" },
+		{
+			"content_type_id": "games",
+			"name": "Sokoban",
+			"slug": "sokoban",
+			"description": "Push-box puzzles requiring strategic block placement"
+		},
 		{
 			"content_type_id": "games",
 			"name": "Solitaire",
-			"slug": "solitaire"
+			"slug": "solitaire",
+			"description": "Single-player card games with various rule sets"
 		},
 		{
 			"content_type_id": "games",
 			"name": "Trading Card Game",
-			"slug": "trading-card-game"
+			"slug": "trading-card-game",
+			"description": "Collectible card games with deck building and trading"
 		},
 		{
 			"content_type_id": "games",
 			"name": "Political Sim",
-			"slug": "political-sim"
+			"slug": "political-sim",
+			"description": "Simulate political systems and governmental decision-making"
 		},
-		{ "content_type_id": "games", "name": "Spelling", "slug": "spelling" },
+		{
+			"content_type_id": "games",
+			"name": "Spelling",
+			"slug": "spelling",
+			"description": "Educational games focused on spelling and vocabulary"
+		},
 		{
 			"content_type_id": "games",
 			"name": "Medical Sim",
-			"slug": "medical-sim"
+			"slug": "medical-sim",
+			"description": "Simulate medical procedures and healthcare management"
 		}
 	],
 	"content_metadata_attributes": [

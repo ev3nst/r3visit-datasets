@@ -72,83 +72,209 @@
 		}
 	],
 	"tags": [
-		{ "content_type_id": "animes", "name": "Shonen", "slug": "shonen" },
-		{ "content_type_id": "animes", "name": "Shojo", "slug": "shojo" },
-		{ "content_type_id": "animes", "name": "Seinen", "slug": "seinen" },
-		{ "content_type_id": "animes", "name": "Josei", "slug": "josei" },
+		{
+			"content_type_id": "animes",
+			"name": "Shonen",
+			"slug": "shonen",
+			"description": "Anime targeted at young male audiences with action and adventure"
+		},
+		{
+			"content_type_id": "animes",
+			"name": "Shojo",
+			"slug": "shojo",
+			"description": "Anime targeted at young female audiences focusing on romance and relationships"
+		},
+		{
+			"content_type_id": "animes",
+			"name": "Seinen",
+			"slug": "seinen",
+			"description": "Anime targeted at adult men with mature themes and complex narratives"
+		},
+		{
+			"content_type_id": "animes",
+			"name": "Josei",
+			"slug": "josei",
+			"description": "Anime targeted at adult women with realistic romance and life situations"
+		},
 		{
 			"content_type_id": "animes",
 			"name": "Kodomomuke",
-			"slug": "kodomomuke"
+			"slug": "kodomomuke",
+			"description": "Anime specifically created for children with educational content"
 		},
-		{ "content_type_id": "animes", "name": "OVA", "slug": "ova" },
-		{ "content_type_id": "animes", "name": "ONA", "slug": "ona" },
-		{ "content_type_id": "animes", "name": "Movie", "slug": "movie" },
+		{
+			"content_type_id": "animes",
+			"name": "OVA",
+			"slug": "ova",
+			"description": "Original Video Animation released directly to home video"
+		},
+		{
+			"content_type_id": "animes",
+			"name": "ONA",
+			"slug": "ona",
+			"description": "Original Net Animation released primarily online"
+		},
+		{
+			"content_type_id": "animes",
+			"name": "Movie",
+			"slug": "movie",
+			"description": "Feature-length anime films for theatrical release"
+		},
 		{
 			"content_type_id": "animes",
 			"name": "Short-Form",
-			"slug": "short-form"
+			"slug": "short-form",
+			"description": "Brief anime episodes typically under 15 minutes"
 		},
 		{
 			"content_type_id": "animes",
 			"name": "School Setting",
-			"slug": "school-setting"
+			"slug": "school-setting",
+			"description": "Anime set primarily in educational institutions"
 		},
 		{
 			"content_type_id": "animes",
 			"name": "Music-Themed",
-			"slug": "music-themed"
+			"slug": "music-themed",
+			"description": "Anime centered around musical performances and artists"
 		},
-		{ "content_type_id": "animes", "name": "Fantasy", "slug": "fantasy" },
+		{
+			"content_type_id": "animes",
+			"name": "Fantasy",
+			"slug": "fantasy",
+			"description": "Anime featuring magical worlds and mythical creatures"
+		},
 		{
 			"content_type_id": "animes",
 			"name": "Supernatural",
-			"slug": "supernatural"
+			"slug": "supernatural",
+			"description": "Anime involving ghosts, spirits, and otherworldly phenomena"
 		},
 		{
 			"content_type_id": "animes",
 			"name": "Slice of Life",
-			"slug": "slice-of-life"
+			"slug": "slice-of-life",
+			"description": "Anime depicting everyday life and mundane activities"
 		},
-		{ "content_type_id": "animes", "name": "School", "slug": "school" },
-		{ "content_type_id": "animes", "name": "Sports", "slug": "sports" },
-		{ "content_type_id": "animes", "name": "Mecha", "slug": "mecha" },
-		{ "content_type_id": "animes", "name": "Isekai", "slug": "isekai" },
-		{ "content_type_id": "animes", "name": "Harem", "slug": "harem" },
-		{ "content_type_id": "animes", "name": "Ecchi", "slug": "ecchi" },
-		{ "content_type_id": "animes", "name": "Yuri", "slug": "yuri" },
-		{ "content_type_id": "animes", "name": "Yaoi", "slug": "yaoi" },
+		{
+			"content_type_id": "animes",
+			"name": "School",
+			"slug": "school",
+			"description": "Anime featuring school life and student experiences"
+		},
+		{
+			"content_type_id": "animes",
+			"name": "Sports",
+			"slug": "sports",
+			"description": "Anime focused on athletic competition and team spirit"
+		},
+		{
+			"content_type_id": "animes",
+			"name": "Mecha",
+			"slug": "mecha",
+			"description": "Anime featuring giant robots and mechanical suits"
+		},
+		{
+			"content_type_id": "animes",
+			"name": "Isekai",
+			"slug": "isekai",
+			"description": "Anime about characters transported to alternate worlds"
+		},
+		{
+			"content_type_id": "animes",
+			"name": "Harem",
+			"slug": "harem",
+			"description": "Anime where one character is surrounded by multiple love interests"
+		},
+		{
+			"content_type_id": "animes",
+			"name": "Ecchi",
+			"slug": "ecchi",
+			"description": "Anime with mild sexual themes and fan service"
+		},
+		{
+			"content_type_id": "animes",
+			"name": "Yuri",
+			"slug": "yuri",
+			"description": "Anime featuring romantic relationships between female characters"
+		},
+		{
+			"content_type_id": "animes",
+			"name": "Yaoi",
+			"slug": "yaoi",
+			"description": "Anime featuring romantic relationships between male characters"
+		},
 		{
 			"content_type_id": "animes",
 			"name": "Magical Girl",
-			"slug": "magical-girl"
+			"slug": "magical-girl",
+			"description": "Anime about girls with magical powers fighting evil"
 		},
 		{
 			"content_type_id": "animes",
 			"name": "Historical",
-			"slug": "historical"
+			"slug": "historical",
+			"description": "Anime set in historical periods and past eras"
 		},
-		{ "content_type_id": "animes", "name": "Military", "slug": "military" },
-		{ "content_type_id": "animes", "name": "Music", "slug": "music" },
-		{ "content_type_id": "animes", "name": "Parody", "slug": "parody" },
-		{ "content_type_id": "animes", "name": "Vampire", "slug": "vampire" },
-		{ "content_type_id": "animes", "name": "Demon", "slug": "demon" },
-		{ "content_type_id": "animes", "name": "Ninja", "slug": "ninja" },
-		{ "content_type_id": "animes", "name": "Samurai", "slug": "samurai" },
+		{
+			"content_type_id": "animes",
+			"name": "Military",
+			"slug": "military",
+			"description": "Anime featuring armed forces and warfare themes"
+		},
+		{
+			"content_type_id": "animes",
+			"name": "Music",
+			"slug": "music",
+			"description": "Anime exploring musical themes and performance arts"
+		},
+		{
+			"content_type_id": "animes",
+			"name": "Parody",
+			"slug": "parody",
+			"description": "Anime that satirizes other shows or cultural elements"
+		},
+		{
+			"content_type_id": "animes",
+			"name": "Vampire",
+			"slug": "vampire",
+			"description": "Anime featuring blood-drinking supernatural creatures"
+		},
+		{
+			"content_type_id": "animes",
+			"name": "Demon",
+			"slug": "demon",
+			"description": "Anime involving demonic entities and supernatural evil"
+		},
+		{
+			"content_type_id": "animes",
+			"name": "Ninja",
+			"slug": "ninja",
+			"description": "Anime featuring stealth warriors and martial arts"
+		},
+		{
+			"content_type_id": "animes",
+			"name": "Samurai",
+			"slug": "samurai",
+			"description": "Anime about honor-bound Japanese warriors and their code"
+		},
 		{
 			"content_type_id": "animes",
 			"name": "Post-Apocalyptic",
-			"slug": "post-apocalyptic"
+			"slug": "post-apocalyptic",
+			"description": "Anime set after civilization's collapse or destruction"
 		},
 		{
 			"content_type_id": "animes",
 			"name": "Cyberpunk",
-			"slug": "cyberpunk"
+			"slug": "cyberpunk",
+			"description": "Anime featuring high-tech dystopian futures and hackers"
 		},
 		{
 			"content_type_id": "animes",
 			"name": "Time Travel",
-			"slug": "time-travel"
+			"slug": "time-travel",
+			"description": "Anime involving characters moving through different time periods"
 		}
 	],
 	"content_metadata_attributes": [
