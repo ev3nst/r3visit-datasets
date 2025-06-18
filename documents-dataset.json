@@ -280,6 +280,12 @@
 			"name": "Legacy",
 			"slug": "legacy",
 			"description": "Legacy or outdated files"
+		},
+		{
+			"content_type_id": "document",
+			"name": "Template",
+			"slug": "template",
+			"description": "Auto-generated tag for template"
 		}
 	],
 	"content_metadata_attributes": [

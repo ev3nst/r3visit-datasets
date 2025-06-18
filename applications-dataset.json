@@ -286,6 +286,12 @@
 			"name": "Alternative",
 			"slug": "alternative",
 			"description": "Alternative to mainstream applications"
+		},
+		{
+			"content_type_id": "application",
+			"name": "Productivity",
+			"slug": "productivity",
+			"description": "Auto-generated tag for productivity"
 		}
 	],
 	"content_metadata_attributes": [

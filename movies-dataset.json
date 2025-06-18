@@ -227,7 +227,6 @@
 			"slug": "espionage",
 			"description": "Spies, secrets, and international intrigue"
 		},
-
 		{
 			"content_type_id": "movies",
 			"name": "Political",
@@ -251,6 +250,126 @@
 			"name": "Mockumentary",
 			"slug": "mockumentary",
 			"description": "Fictional stories told in a documentary style"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Family Friendly",
+			"slug": "family-friendly",
+			"description": "Auto-generated tag for family friendly"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Buddy Cop",
+			"slug": "buddy-cop",
+			"description": "Auto-generated tag for buddy cop"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Social Commentary",
+			"slug": "social-commentary",
+			"description": "Auto-generated tag for social commentary"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Family Drama",
+			"slug": "family-drama",
+			"description": "Auto-generated tag for family drama"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Quirky",
+			"slug": "quirky",
+			"description": "Auto-generated tag for quirky"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Period Piece",
+			"slug": "period-piece",
+			"description": "Auto-generated tag for period piece"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Caper",
+			"slug": "caper",
+			"description": "Auto-generated tag for caper"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Dark Comedy",
+			"slug": "dark-comedy",
+			"description": "Auto-generated tag for dark comedy"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Class Warfare",
+			"slug": "class-warfare",
+			"description": "Auto-generated tag for class warfare"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Neo Noir",
+			"slug": "neo-noir",
+			"description": "Auto-generated tag for neo noir"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Cat And Mouse",
+			"slug": "cat-and-mouse",
+			"description": "Auto-generated tag for cat and mouse"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Existential",
+			"slug": "existential",
+			"description": "Auto-generated tag for existential"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Dreams",
+			"slug": "dreams",
+			"description": "Auto-generated tag for dreams"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Bittersweet",
+			"slug": "bittersweet",
+			"description": "Auto-generated tag for bittersweet"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Nonlinear",
+			"slug": "nonlinear",
+			"description": "Auto-generated tag for nonlinear"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Cult Classic",
+			"slug": "cult-classic",
+			"description": "Auto-generated tag for cult classic"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Dialogue Heavy",
+			"slug": "dialogue-heavy",
+			"description": "Auto-generated tag for dialogue heavy"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Extreme Sports",
+			"slug": "extreme-sports",
+			"description": "Auto-generated tag for extreme sports"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Inspiring",
+			"slug": "inspiring",
+			"description": "Auto-generated tag for inspiring"
+		},
+		{
+			"content_type_id": "movies",
+			"name": "Nature",
+			"slug": "nature",
+			"description": "Auto-generated tag for nature"
 		}
 	],
 	"content_metadata_attributes": [

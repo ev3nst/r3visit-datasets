@@ -262,6 +262,18 @@
 			"name": "Classic",
 			"slug": "classic",
 			"description": "Timeless and classic wallpapers"
+		},
+		{
+			"content_type_id": "wallpaper",
+			"name": "Mobile",
+			"slug": "mobile",
+			"description": "Auto-generated tag for mobile"
+		},
+		{
+			"content_type_id": "wallpaper",
+			"name": "Hd",
+			"slug": "hd",
+			"description": "Auto-generated tag for hd"
 		}
 	],
 	"content_metadata_attributes": [

@@ -286,6 +286,138 @@
 			"name": "Video Game",
 			"slug": "video-game",
 			"description": "Music from video games and interactive media"
+		},
+		{
+			"content_type_id": "music",
+			"name": "80s",
+			"slug": "80s",
+			"description": "Auto-generated tag for 80s"
+		},
+		{
+			"content_type_id": "music",
+			"name": "Feel Good",
+			"slug": "feel-good",
+			"description": "Auto-generated tag for feel good"
+		},
+		{
+			"content_type_id": "music",
+			"name": "Retro",
+			"slug": "retro",
+			"description": "Auto-generated tag for retro"
+		},
+		{
+			"content_type_id": "music",
+			"name": "Classic",
+			"slug": "classic",
+			"description": "Auto-generated tag for classic"
+		},
+		{
+			"content_type_id": "music",
+			"name": "70s",
+			"slug": "70s",
+			"description": "Auto-generated tag for 70s"
+		},
+		{
+			"content_type_id": "music",
+			"name": "Opera",
+			"slug": "opera",
+			"description": "Auto-generated tag for opera"
+		},
+		{
+			"content_type_id": "music",
+			"name": "Epic",
+			"slug": "epic",
+			"description": "Auto-generated tag for epic"
+		},
+		{
+			"content_type_id": "music",
+			"name": "Legendary",
+			"slug": "legendary",
+			"description": "Auto-generated tag for legendary"
+		},
+		{
+			"content_type_id": "music",
+			"name": "2010s",
+			"slug": "2010s",
+			"description": "Auto-generated tag for 2010s"
+		},
+		{
+			"content_type_id": "music",
+			"name": "Grammy",
+			"slug": "grammy",
+			"description": "Auto-generated tag for grammy"
+		},
+		{
+			"content_type_id": "music",
+			"name": "Conscious",
+			"slug": "conscious",
+			"description": "Auto-generated tag for conscious"
+		},
+		{
+			"content_type_id": "music",
+			"name": "West Coast",
+			"slug": "west-coast",
+			"description": "Auto-generated tag for west coast"
+		},
+		{
+			"content_type_id": "music",
+			"name": "Modern",
+			"slug": "modern",
+			"description": "Auto-generated tag for modern"
+		},
+		{
+			"content_type_id": "music",
+			"name": "Euphoric",
+			"slug": "euphoric",
+			"description": "Auto-generated tag for euphoric"
+		},
+		{
+			"content_type_id": "music",
+			"name": "2000s",
+			"slug": "2000s",
+			"description": "Auto-generated tag for 2000s"
+		},
+		{
+			"content_type_id": "music",
+			"name": "60s",
+			"slug": "60s",
+			"description": "Auto-generated tag for 60s"
+		},
+		{
+			"content_type_id": "music",
+			"name": "Cool Jazz",
+			"slug": "cool-jazz",
+			"description": "Auto-generated tag for cool jazz"
+		},
+		{
+			"content_type_id": "music",
+			"name": "Saxophone",
+			"slug": "saxophone",
+			"description": "Auto-generated tag for saxophone"
+		},
+		{
+			"content_type_id": "music",
+			"name": "Guitar",
+			"slug": "guitar",
+			"description": "Auto-generated tag for guitar"
+		},
+		{
+			"content_type_id": "music",
+			"name": "Anthem",
+			"slug": "anthem",
+			"description": "Auto-generated tag for anthem"
+		},
+		{
+			"content_type_id": "music",
+			"name": "Hard Rock",
+			"slug": "hard-rock",
+			"description": "Auto-generated tag for hard rock"
+		},
+		{
+			"content_type_id": "music",
+			"name": "Groove",
+			"slug": "groove",
+			"description": "Auto-generated tag for groove"
 		}
 	],
 	"content_metadata_attributes": [

@@ -21,13 +21,21 @@
 		"locked": 0
 	},
 	"categories": [
-		{ "content_type_id": "animes", "name": "Action", "slug": "action" },
+		{
+			"content_type_id": "animes",
+			"name": "Action",
+			"slug": "action"
+		},
 		{
 			"content_type_id": "animes",
 			"name": "Adventure",
 			"slug": "adventure"
 		},
-		{ "content_type_id": "animes", "name": "Comedy", "slug": "comedy" },
+		{
+			"content_type_id": "animes",
+			"name": "Comedy",
+			"slug": "comedy"
+		},
 		{
 			"content_type_id": "animes",
 			"name": "Drama",
@@ -69,6 +77,18 @@
 			"name": "Psychological",
 			"slug": "psychological",
 			"description": "Anime exploring the human mind and complex emotions."
+		},
+		{
+			"content_type_id": "animes",
+			"name": "Supernatural",
+			"slug": "supernatural",
+			"description": "Auto-generated category for supernatural"
+		},
+		{
+			"content_type_id": "animes",
+			"name": "Fantasy",
+			"slug": "fantasy",
+			"description": "Auto-generated category for fantasy"
 		}
 	],
 	"tags": [
@@ -275,6 +295,96 @@
 			"name": "Time Travel",
 			"slug": "time-travel",
 			"description": "Anime involving characters moving through different time periods"
+		},
+		{
+			"content_type_id": "animes",
+			"name": "Long Running",
+			"slug": "long-running",
+			"description": "Auto-generated tag for long running"
+		},
+		{
+			"content_type_id": "animes",
+			"name": "Pirates",
+			"slug": "pirates",
+			"description": "Auto-generated tag for pirates"
+		},
+		{
+			"content_type_id": "animes",
+			"name": "Family Drama",
+			"slug": "family-drama",
+			"description": "Auto-generated tag for family drama"
+		},
+		{
+			"content_type_id": "animes",
+			"name": "Psychological Warfare",
+			"slug": "psychological-warfare",
+			"description": "Auto-generated tag for psychological warfare"
+		},
+		{
+			"content_type_id": "animes",
+			"name": "Mature",
+			"slug": "mature",
+			"description": "Auto-generated tag for mature"
+		},
+		{
+			"content_type_id": "animes",
+			"name": "Medical Thriller",
+			"slug": "medical-thriller",
+			"description": "Auto-generated tag for medical thriller"
+		},
+		{
+			"content_type_id": "animes",
+			"name": "Dialogue Heavy",
+			"slug": "dialogue-heavy",
+			"description": "Auto-generated tag for dialogue heavy"
+		},
+		{
+			"content_type_id": "animes",
+			"name": "Post War",
+			"slug": "post-war",
+			"description": "Auto-generated tag for post war"
+		},
+		{
+			"content_type_id": "animes",
+			"name": "Emotional",
+			"slug": "emotional",
+			"description": "Auto-generated tag for emotional"
+		},
+		{
+			"content_type_id": "animes",
+			"name": "Beautiful Animation",
+			"slug": "beautiful-animation",
+			"description": "Auto-generated tag for beautiful animation"
+		},
+		{
+			"content_type_id": "animes",
+			"name": "Body Swap",
+			"slug": "body-swap",
+			"description": "Auto-generated tag for body swap"
+		},
+		{
+			"content_type_id": "animes",
+			"name": "Dark Fantasy",
+			"slug": "dark-fantasy",
+			"description": "Auto-generated tag for dark fantasy"
+		},
+		{
+			"content_type_id": "animes",
+			"name": "Female Protagonist",
+			"slug": "female-protagonist",
+			"description": "Auto-generated tag for female protagonist"
+		},
+		{
+			"content_type_id": "animes",
+			"name": "Chinese Animation",
+			"slug": "chinese-animation",
+			"description": "Auto-generated tag for chinese animation"
+		},
+		{
+			"content_type_id": "animes",
+			"name": "Mystery",
+			"slug": "mystery",
+			"description": "Auto-generated tag for mystery"
 		}
 	],
 	"content_metadata_attributes": [
@@ -472,7 +582,7 @@
 				"episodes": 1000,
 				"duration": 24,
 				"studios": ["Toei Animation"],
-				"myanimeList-rating": 9.0,
+				"myanimeList-rating": 9,
 				"plot": "Gol D. Roger was known as the Pirate King, the strongest and most infamous being to have sailed the Grand Line. The capture and death of Roger by the World Government brought a change throughout the world. His last words before his death revealed the location of the greatest treasure in the world, One Piece.",
 				"Poster": "https://image.tmdb.org/t/p/original/uiIB9ctqZFbfRXXimtpmZb5dusi.jpg",
 				"trailer": "https://www.youtube.com/watch?v=MCb13lbVGE0",
@@ -571,7 +681,7 @@
 				"episodes": 74,
 				"duration": 24,
 				"studios": ["Madhouse"],
-				"myanimeList-rating": 9.0,
+				"myanimeList-rating": 9,
 				"plot": "Dr. Kenzo Tenma is a renowned brain surgeon of Japanese descent working in Europe. Highly lauded by his peers as one of the great young minds that will revolutionize the field, he is blessed with a beautiful fiancé and is on the cusp of a big promotion in the hospital he works at.",
 				"Poster": "https://image.tmdb.org/t/p/original/n5XNKXnoXpoXyfiCtXHOf8q8PFM.jpg",
 				"trailer": "https://www.youtube.com/watch?v=9aS-EgdAq6U",
