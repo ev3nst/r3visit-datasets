@@ -345,7 +345,7 @@
 			"icon": "",
 			"order": 0,
 			"is_array": 0,
-			"filterable": 1,
+			"filterable": 0,
 			"sortable": 0,
 			"description": ""
 		},
