@@ -1,0 +1,673 @@
+{
+	"metadata": {
+		"id": "musics",
+		"title": "Music Collection",
+		"description": "Music dataset with genres, artists, albums, and metadata for organizing your personal music library.",
+		"author": "R3VISIT",
+		"updated_at": "2025-06-07",
+		"version": "1.0.0"
+	},
+	"content_type": {
+		"name": "Music",
+		"slug": "music",
+		"shape": "rectangular",
+		"file_type": "video",
+		"description": "Songs, albums, and artists across all genres.",
+		"cover": "music-cover.webp",
+		"icon": "music",
+		"order": 0,
+		"pinned": 0,
+		"docked": 1,
+		"locked": 0
+	},
+	"categories": [
+		{
+			"content_type_id": "music",
+			"name": "Rock",
+			"slug": "rock",
+			"description": "Classic and modern rock music that rocks my world"
+		},
+		{
+			"content_type_id": "music",
+			"name": "Pop",
+			"slug": "pop",
+			"description": "Catchy melodies and mainstream hits"
+		},
+		{
+			"content_type_id": "music",
+			"name": "Hip-Hop",
+			"slug": "hip-hop",
+			"description": "Beats, rhymes, and urban culture"
+		},
+		{
+			"content_type_id": "music",
+			"name": "Electronic",
+			"slug": "electronic",
+			"description": "Synthesized sounds and digital beats"
+		},
+		{
+			"content_type_id": "music",
+			"name": "Jazz",
+			"slug": "jazz",
+			"description": "Improvisation and smooth rhythms"
+		},
+		{
+			"content_type_id": "music",
+			"name": "Classical",
+			"slug": "classical",
+			"description": "Timeless orchestral and chamber music"
+		},
+		{
+			"content_type_id": "music",
+			"name": "Country",
+			"slug": "country",
+			"description": "Stories from the heart of America"
+		},
+		{
+			"content_type_id": "music",
+			"name": "R&B",
+			"slug": "rnb",
+			"description": "Rhythm and blues with soulful vocals"
+		},
+		{
+			"content_type_id": "music",
+			"name": "Folk",
+			"slug": "folk",
+			"description": "Traditional and acoustic storytelling"
+		},
+		{
+			"content_type_id": "music",
+			"name": "Reggae",
+			"slug": "reggae",
+			"description": "Caribbean rhythms and peaceful vibes"
+		},
+		{
+			"content_type_id": "music",
+			"name": "Alternative",
+			"slug": "alternative",
+			"description": "Non-mainstream and indie sounds"
+		},
+		{
+			"content_type_id": "music",
+			"name": "Metal",
+			"slug": "metal",
+			"description": "Heavy guitars and powerful vocals"
+		}
+	],
+	"tags": [
+		{
+			"content_type_id": "music",
+			"name": "Indie",
+			"slug": "indie",
+			"description": "Independent artists and unique sounds"
+		},
+		{
+			"content_type_id": "music",
+			"name": "Acoustic",
+			"slug": "acoustic",
+			"description": "Unplugged and natural instrument sounds"
+		},
+		{
+			"content_type_id": "music",
+			"name": "Live",
+			"slug": "live",
+			"description": "Concert recordings and live performances"
+		},
+		{
+			"content_type_id": "music",
+			"name": "Instrumental",
+			"slug": "instrumental",
+			"description": "Music without vocals"
+		},
+		{
+			"content_type_id": "music",
+			"name": "Remix",
+			"slug": "remix",
+			"description": "Reimagined versions of original tracks"
+		},
+		{
+			"content_type_id": "music",
+			"name": "Cover",
+			"slug": "cover",
+			"description": "Artists performing other artists' songs"
+		},
+		{
+			"content_type_id": "music",
+			"name": "Mashup",
+			"slug": "mashup",
+			"description": "Creative combinations of multiple songs"
+		},
+		{
+			"content_type_id": "music",
+			"name": "Lo-Fi",
+			"slug": "lo-fi",
+			"description": "Low-fidelity, chill, and relaxing beats"
+		},
+		{
+			"content_type_id": "music",
+			"name": "Ambient",
+			"slug": "ambient",
+			"description": "Atmospheric and background music"
+		},
+		{
+			"content_type_id": "music",
+			"name": "Experimental",
+			"slug": "experimental",
+			"description": "Avant-garde and boundary-pushing sounds"
+		},
+		{
+			"content_type_id": "music",
+			"name": "Synthwave",
+			"slug": "synthwave",
+			"description": "Retro-futuristic synthesizer music"
+		},
+		{
+			"content_type_id": "music",
+			"name": "Chillout",
+			"slug": "chillout",
+			"description": "Relaxing and downtempo music"
+		},
+		{
+			"content_type_id": "music",
+			"name": "Dance",
+			"slug": "dance",
+			"description": "Upbeat music perfect for dancing"
+		},
+		{
+			"content_type_id": "music",
+			"name": "House",
+			"slug": "house",
+			"description": "Four-on-the-floor electronic dance music"
+		},
+		{
+			"content_type_id": "music",
+			"name": "Techno",
+			"slug": "techno",
+			"description": "Repetitive electronic beats and rhythms"
+		},
+		{
+			"content_type_id": "music",
+			"name": "Dubstep",
+			"slug": "dubstep",
+			"description": "Heavy bass drops and electronic wobbles"
+		},
+		{
+			"content_type_id": "music",
+			"name": "Trap",
+			"slug": "trap",
+			"description": "Hip-hop subgenre with heavy 808s"
+		},
+		{
+			"content_type_id": "music",
+			"name": "Blues",
+			"slug": "blues",
+			"description": "Soulful music expressing life's struggles"
+		},
+		{
+			"content_type_id": "music",
+			"name": "Funk",
+			"slug": "funk",
+			"description": "Groovy rhythms and syncopated beats"
+		},
+		{
+			"content_type_id": "music",
+			"name": "Soul",
+			"slug": "soul",
+			"description": "Emotional vocals and heartfelt expression"
+		},
+		{
+			"content_type_id": "music",
+			"name": "Punk",
+			"slug": "punk",
+			"description": "Fast, aggressive, and rebellious music"
+		},
+		{
+			"content_type_id": "music",
+			"name": "Grunge",
+			"slug": "grunge",
+			"description": "Alternative rock with a raw, distorted sound"
+		},
+		{
+			"content_type_id": "music",
+			"name": "Progressive",
+			"slug": "progressive",
+			"description": "Complex compositions and musical evolution"
+		},
+		{
+			"content_type_id": "music",
+			"name": "Psychedelic",
+			"slug": "psychedelic",
+			"description": "Mind-bending and surreal musical experiences"
+		},
+		{
+			"content_type_id": "music",
+			"name": "World",
+			"slug": "world",
+			"description": "Traditional and ethnic music from around the globe"
+		},
+		{
+			"content_type_id": "music",
+			"name": "Latin",
+			"slug": "latin",
+			"description": "Rhythmic music from Latin American cultures"
+		},
+		{
+			"content_type_id": "music",
+			"name": "Soundtrack",
+			"slug": "soundtrack",
+			"description": "Music from movies, TV shows, and games"
+		},
+		{
+			"content_type_id": "music",
+			"name": "Vocal",
+			"slug": "vocal",
+			"description": "Music highlighting vocal performances"
+		},
+		{
+			"content_type_id": "music",
+			"name": "Christmas",
+			"slug": "christmas",
+			"description": "Festive holiday music and carols"
+		},
+		{
+			"content_type_id": "music",
+			"name": "Classical Crossover",
+			"slug": "classical-crossover",
+			"description": "Classical music mixed with popular genres"
+		},
+		{
+			"content_type_id": "music",
+			"name": "New Age",
+			"slug": "new-age",
+			"description": "Meditative and spiritual music"
+		},
+		{
+			"content_type_id": "music",
+			"name": "Video Game",
+			"slug": "video-game",
+			"description": "Music from video games and interactive media"
+		}
+	],
+	"content_metadata_attributes": [
+		{
+			"content_type_id": "music",
+			"name": "Artist",
+			"slug": "artist",
+			"attribute_type": "text",
+			"icon": "",
+			"order": 0,
+			"is_array": 1,
+			"filterable": 1,
+			"sortable": 1,
+			"description": ""
+		},
+		{
+			"content_type_id": "music",
+			"name": "Album",
+			"slug": "album",
+			"attribute_type": "text",
+			"icon": "",
+			"order": 0,
+			"is_array": 0,
+			"filterable": 1,
+			"sortable": 1,
+			"description": ""
+		},
+		{
+			"content_type_id": "music",
+			"name": "Release Date",
+			"slug": "release-date",
+			"attribute_type": "date",
+			"icon": "",
+			"order": 0,
+			"is_array": 0,
+			"filterable": 1,
+			"sortable": 1,
+			"description": ""
+		},
+		{
+			"content_type_id": "music",
+			"name": "Release Year",
+			"slug": "release-year",
+			"attribute_type": "number",
+			"icon": "",
+			"order": 0,
+			"is_array": 0,
+			"filterable": 1,
+			"sortable": 1,
+			"description": ""
+		},
+		{
+			"content_type_id": "music",
+			"name": "Record Label",
+			"slug": "record-label",
+			"attribute_type": "text",
+			"icon": "",
+			"order": 0,
+			"is_array": 0,
+			"filterable": 1,
+			"sortable": 0,
+			"description": ""
+		},
+		{
+			"content_type_id": "music",
+			"name": "Producer",
+			"slug": "producer",
+			"attribute_type": "text",
+			"icon": "",
+			"order": 0,
+			"is_array": 1,
+			"filterable": 1,
+			"sortable": 0,
+			"description": ""
+		},
+		{
+			"content_type_id": "music",
+			"name": "Composer",
+			"slug": "composer",
+			"attribute_type": "text",
+			"icon": "",
+			"order": 0,
+			"is_array": 1,
+			"filterable": 1,
+			"sortable": 0,
+			"description": ""
+		},
+		{
+			"content_type_id": "music",
+			"name": "Lyricist",
+			"slug": "lyricist",
+			"attribute_type": "text",
+			"icon": "",
+			"order": 0,
+			"is_array": 1,
+			"filterable": 1,
+			"sortable": 0,
+			"description": ""
+		},
+		{
+			"content_type_id": "music",
+			"name": "Featured Artists",
+			"slug": "featured-artists",
+			"attribute_type": "text",
+			"icon": "",
+			"order": 0,
+			"is_array": 1,
+			"filterable": 1,
+			"sortable": 0,
+			"description": ""
+		},
+		{
+			"content_type_id": "music",
+			"name": "Lyrics",
+			"slug": "lyrics",
+			"attribute_type": "text",
+			"icon": "",
+			"order": 0,
+			"is_array": 0,
+			"filterable": 0,
+			"sortable": 0,
+			"description": ""
+		},
+		{
+			"content_type_id": "music",
+			"name": "Spotify ID",
+			"slug": "spotify-id",
+			"attribute_type": "text",
+			"icon": "",
+			"order": 0,
+			"is_array": 0,
+			"filterable": 0,
+			"sortable": 0,
+			"description": ""
+		},
+		{
+			"content_type_id": "music",
+			"name": "YouTube ID",
+			"slug": "youtube-id",
+			"attribute_type": "text",
+			"icon": "",
+			"order": 0,
+			"is_array": 0,
+			"filterable": 0,
+			"sortable": 0,
+			"description": ""
+		}
+	],
+	"demo_data": [
+		{
+			"id": 1,
+			"content_type_id": "music",
+			"category_id": "pop",
+			"file_id": null,
+			"name": "Never Gonna Give You Up",
+			"slug": "never-gonna-give-you-up",
+			"description": "Classic 80s pop hit that became an internet phenomenon, known for its catchy melody and iconic music video.",
+			"cover": null,
+			"cover_gif": null,
+			"rating": 8,
+			"favorite": 0,
+			"view_count": 0,
+			"last_viewed_at": null,
+			"source_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+			"scrape_url": null,
+			"tags": ["80s", "dance", "feel-good", "retro", "classic"],
+			"metadata": {
+				"artist": ["Rick Astley"],
+				"album": "Whenever You Need Somebody",
+				"release-date": "1987-07-27",
+				"release-year": 1987,
+				"record-label": "RCA Records",
+				"producer": ["Stock Aitken Waterman"],
+				"composer": ["Mike Stock", "Matt Aitken", "Pete Waterman"],
+				"lyricist": ["Mike Stock", "Matt Aitken", "Pete Waterman"],
+				"featured-artists": [],
+				"lyrics": "We're no strangers to love, you know the rules and so do I...",
+				"spotify-id": "4uLU6hMCjMI75M1A2tKUQC",
+				"youtube-id": "dQw4w9WgXcQ"
+			}
+		},
+		{
+			"id": 2,
+			"content_type_id": "music",
+			"category_id": "rock",
+			"file_id": null,
+			"name": "Bohemian Rhapsody",
+			"slug": "bohemian-rhapsody",
+			"description": "Epic rock opera masterpiece that redefined what a pop song could be, featuring multiple musical styles and operatic elements.",
+			"cover": null,
+			"cover_gif": null,
+			"rating": 10,
+			"favorite": 1,
+			"view_count": 0,
+			"last_viewed_at": null,
+			"source_url": "https://www.youtube.com/watch?v=fJ9rUzIMcZQ",
+			"scrape_url": null,
+			"tags": ["70s", "opera", "epic", "classic", "legendary"],
+			"metadata": {
+				"artist": ["Queen"],
+				"album": "A Night at the Opera",
+				"release-date": "1975-10-31",
+				"release-year": 1975,
+				"record-label": "EMI",
+				"producer": ["Roy Thomas Baker", "Queen"],
+				"composer": ["Freddie Mercury"],
+				"lyricist": ["Freddie Mercury"],
+				"featured-artists": [],
+				"lyrics": "Is this the real life? Is this just fantasy? Caught in a landslide...",
+				"spotify-id": "4u7EnebtmKWzUH433cf5Qv",
+				"youtube-id": "fJ9rUzIMcZQ"
+			}
+		},
+		{
+			"id": 3,
+			"content_type_id": "music",
+			"category_id": "hip-hop",
+			"file_id": null,
+			"name": "HUMBLE.",
+			"slug": "humble",
+			"description": "Grammy-winning hip-hop track with hard-hitting beats and introspective lyrics about success and staying grounded.",
+			"cover": null,
+			"cover_gif": null,
+			"rating": 9,
+			"favorite": 0,
+			"view_count": 0,
+			"last_viewed_at": null,
+			"source_url": "https://www.youtube.com/watch?v=tvTRZJ-4EyI",
+			"scrape_url": null,
+			"tags": ["2010s", "grammy", "conscious", "west-coast", "modern"],
+			"metadata": {
+				"artist": ["Kendrick Lamar"],
+				"album": "DAMN.",
+				"release-date": "2017-03-30",
+				"release-year": 2017,
+				"record-label": "Top Dawg Entertainment",
+				"producer": ["Mike WiLL Made-It"],
+				"composer": ["Kendrick Lamar", "Mike WiLL Made-It"],
+				"lyricist": ["Kendrick Lamar"],
+				"featured-artists": [],
+				"lyrics": "Nobody pray for me, it's been that day for me...",
+				"spotify-id": "7KXjTSCq5nL1LoYtL7XAwS",
+				"youtube-id": "tvTRZJ-4EyI"
+			}
+		},
+		{
+			"id": 4,
+			"content_type_id": "music",
+			"category_id": "electronic",
+			"file_id": null,
+			"name": "Strobe",
+			"slug": "strobe",
+			"description": "Progressive house masterpiece with an emotional 10-minute journey from ambient beginnings to euphoric climax.",
+			"cover": null,
+			"cover_gif": null,
+			"rating": 9,
+			"favorite": 1,
+			"view_count": 0,
+			"last_viewed_at": null,
+			"source_url": "https://www.youtube.com/watch?v=tKi9Z-f6qX4",
+			"scrape_url": null,
+			"tags": ["progressive", "ambient", "euphoric", "epic", "2000s"],
+			"metadata": {
+				"artist": ["Deadmau5"],
+				"album": "For Lack of a Better Name",
+				"release-date": "2009-09-22",
+				"release-year": 2009,
+				"record-label": "Mau5trap",
+				"producer": ["Deadmau5"],
+				"composer": ["Joel Zimmerman"],
+				"lyricist": [],
+				"featured-artists": [],
+				"lyrics": null,
+				"spotify-id": "4kJWtxDDNb9oAk3h7sX3N4",
+				"youtube-id": "tKi9Z-f6qX4"
+			}
+		},
+		{
+			"id": 5,
+			"content_type_id": "music",
+			"category_id": "jazz",
+			"file_id": null,
+			"name": "Take Five",
+			"slug": "take-five",
+			"description": "Iconic jazz standard in 5/4 time signature, featuring brilliant saxophone and piano interplay in a cool jazz style.",
+			"cover": null,
+			"cover_gif": null,
+			"rating": 9,
+			"favorite": 0,
+			"view_count": 0,
+			"last_viewed_at": null,
+			"source_url": "https://www.youtube.com/watch?v=-DHuW1h1wHw",
+			"scrape_url": null,
+			"tags": [
+				"60s",
+				"cool-jazz",
+				"instrumental",
+				"saxophone",
+				"classic"
+			],
+			"metadata": {
+				"artist": ["Dave Brubeck Quartet"],
+				"album": "Time Out",
+				"release-date": "1959-12-14",
+				"release-year": 1959,
+				"record-label": "Columbia Records",
+				"producer": ["Teo Macero"],
+				"composer": ["Paul Desmond"],
+				"lyricist": [],
+				"featured-artists": [
+					"Paul Desmond",
+					"Eugene Wright",
+					"Joe Morello"
+				],
+				"lyrics": null,
+				"spotify-id": "1YQWosTIljIvxAgHWTp7KP",
+				"youtube-id": "-DHuW1h1wHw"
+			}
+		},
+		{
+			"id": 6,
+			"content_type_id": "music",
+			"category_id": "alternative",
+			"file_id": null,
+			"name": "Sweet Child O' Mine",
+			"slug": "sweet-child-o-mine",
+			"description": "Hard rock anthem with one of the most recognizable guitar riffs in music history and powerful vocals.",
+			"cover": null,
+			"cover_gif": null,
+			"rating": 9,
+			"favorite": 0,
+			"view_count": 0,
+			"last_viewed_at": null,
+			"source_url": "https://www.youtube.com/watch?v=1w7OgIMMRc4",
+			"scrape_url": null,
+			"tags": ["80s", "guitar", "anthem", "hard-rock", "classic"],
+			"metadata": {
+				"artist": ["Guns N' Roses"],
+				"album": "Appetite for Destruction",
+				"release-date": "1987-07-21",
+				"release-year": 1987,
+				"record-label": "Geffen Records",
+				"producer": ["Mike Clink"],
+				"composer": ["Guns N' Roses"],
+				"lyricist": ["Axl Rose"],
+				"featured-artists": [],
+				"lyrics": "She's got a smile that it seems to me reminds me of childhood memories...",
+				"spotify-id": "7o2CTH4ctstm8TNelqjb51",
+				"youtube-id": "1w7OgIMMRc4"
+			}
+		},
+		{
+			"id": 7,
+			"content_type_id": "music",
+			"category_id": "rnb",
+			"file_id": null,
+			"name": "Superstition",
+			"slug": "superstition",
+			"description": "Funk-driven R&B classic with infectious groove, featuring Stevie Wonder's signature clavinet sound and soulful vocals.",
+			"cover": null,
+			"cover_gif": null,
+			"rating": 9,
+			"favorite": 1,
+			"view_count": 0,
+			"last_viewed_at": null,
+			"source_url": "https://www.youtube.com/watch?v=ftdZ363R9kQ",
+			"scrape_url": null,
+			"tags": ["70s", "funk", "soul", "groove", "classic"],
+			"metadata": {
+				"artist": ["Stevie Wonder"],
+				"album": "Talking Book",
+				"release-date": "1972-10-24",
+				"release-year": 1972,
+				"record-label": "Tamla",
+				"producer": ["Stevie Wonder"],
+				"composer": ["Stevie Wonder"],
+				"lyricist": ["Stevie Wonder"],
+				"featured-artists": [],
+				"lyrics": "Very superstitious, writing on the wall...",
+				"spotify-id": "4N0TP4Rmj6QQezWV88ARNJ",
+				"youtube-id": "ftdZ363R9kQ"
+			}
+		}
+	]
+}

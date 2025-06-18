@@ -1,0 +1,732 @@
+{
+	"metadata": {
+		"id": "applications",
+		"title": "Application Collection",
+		"description": "Application dataset for organizing useful software, tools, and apps that are worth remembering and recommending to others.",
+		"author": "R3VISIT",
+		"updated_at": "2025-06-14",
+		"version": "1.0.0"
+	},
+	"content_type": {
+		"name": "Application",
+		"slug": "application",
+		"shape": "rectangular",
+		"file_type": "binary",
+		"description": "Useful software applications, tools, and programs..",
+		"cover": "application-cover.webp",
+		"icon": "app-window",
+		"order": 0,
+		"pinned": 0,
+		"docked": 1,
+		"locked": 0
+	},
+	"categories": [
+		{
+			"content_type_id": "application",
+			"name": "System Monitoring",
+			"slug": "system-monitoring",
+			"description": "Hardware monitoring, system diagnostics, and performance tracking tools"
+		},
+		{
+			"content_type_id": "application",
+			"name": "Audio & Music",
+			"slug": "audio-music",
+			"description": "Audio enhancement, music production, and sound management tools"
+		},
+		{
+			"content_type_id": "application",
+			"name": "Productivity",
+			"slug": "productivity",
+			"description": "Task management, note-taking, and workflow optimization tools"
+		},
+		{
+			"content_type_id": "application",
+			"name": "Development Tools",
+			"slug": "development",
+			"description": "Code editors, IDEs, version control, and programming utilities"
+		},
+		{
+			"content_type_id": "application",
+			"name": "Media & Graphics",
+			"slug": "media-graphics",
+			"description": "Image editing, video processing, and creative design tools"
+		},
+		{
+			"content_type_id": "application",
+			"name": "File Management",
+			"slug": "file-management",
+			"description": "File explorers, archiving tools, and storage utilities"
+		},
+		{
+			"content_type_id": "application",
+			"name": "Security & Privacy",
+			"slug": "security-privacy",
+			"description": "Antivirus, VPNs, password managers, and privacy tools"
+		},
+		{
+			"content_type_id": "application",
+			"name": "Communication",
+			"slug": "communication",
+			"description": "Messaging, video calls, email clients, and collaboration tools"
+		},
+		{
+			"content_type_id": "application",
+			"name": "Utilities",
+			"slug": "utilities",
+			"description": "System utilities, cleanup tools, and general-purpose applications"
+		},
+		{
+			"content_type_id": "application",
+			"name": "Gaming",
+			"slug": "gaming",
+			"description": "Game launchers, performance optimization, and gaming utilities"
+		},
+		{
+			"content_type_id": "application",
+			"name": "Network Tools",
+			"slug": "network",
+			"description": "Network monitoring, analysis, and connectivity tools"
+		},
+		{
+			"content_type_id": "application",
+			"name": "Automation",
+			"slug": "automation",
+			"description": "Task automation, scripting, and workflow tools"
+		},
+		{
+			"content_type_id": "application",
+			"name": "Education",
+			"slug": "education",
+			"description": "Learning tools, reference applications, and educational software"
+		},
+		{
+			"content_type_id": "application",
+			"name": "Finance",
+			"slug": "finance",
+			"description": "Budgeting, accounting, and financial management tools"
+		}
+	],
+	"tags": [
+		{
+			"content_type_id": "application",
+			"name": "Free",
+			"slug": "free",
+			"description": "Free applications and tools"
+		},
+		{
+			"content_type_id": "application",
+			"name": "Open Source",
+			"slug": "open-source",
+			"description": "Open source software"
+		},
+		{
+			"content_type_id": "application",
+			"name": "Paid",
+			"slug": "paid",
+			"description": "Commercial or paid applications"
+		},
+		{
+			"content_type_id": "application",
+			"name": "Freemium",
+			"slug": "freemium",
+			"description": "Free with premium features available"
+		},
+		{
+			"content_type_id": "application",
+			"name": "Portable",
+			"slug": "portable",
+			"description": "Portable apps that don't require installation"
+		},
+		{
+			"content_type_id": "application",
+			"name": "Lightweight",
+			"slug": "lightweight",
+			"description": "Low resource usage applications"
+		},
+		{
+			"content_type_id": "application",
+			"name": "Essential",
+			"slug": "essential",
+			"description": "Must-have applications"
+		},
+		{
+			"content_type_id": "application",
+			"name": "Recommended",
+			"slug": "recommended",
+			"description": "Highly recommended by others"
+		},
+		{
+			"content_type_id": "application",
+			"name": "Windows",
+			"slug": "windows",
+			"description": "Windows compatible applications"
+		},
+		{
+			"content_type_id": "application",
+			"name": "Mac",
+			"slug": "mac",
+			"description": "macOS compatible applications"
+		},
+		{
+			"content_type_id": "application",
+			"name": "Linux",
+			"slug": "linux",
+			"description": "Linux compatible applications"
+		},
+		{
+			"content_type_id": "application",
+			"name": "Cross Platform",
+			"slug": "cross-platform",
+			"description": "Multi-platform compatible applications"
+		},
+		{
+			"content_type_id": "application",
+			"name": "Command Line",
+			"slug": "command-line",
+			"description": "Terminal or command-line applications"
+		},
+		{
+			"content_type_id": "application",
+			"name": "GUI",
+			"slug": "gui",
+			"description": "Graphical user interface applications"
+		},
+		{
+			"content_type_id": "application",
+			"name": "Professional",
+			"slug": "professional",
+			"description": "Professional-grade applications"
+		},
+		{
+			"content_type_id": "application",
+			"name": "Beginner Friendly",
+			"slug": "beginner-friendly",
+			"description": "Easy to use for beginners"
+		},
+		{
+			"content_type_id": "application",
+			"name": "Advanced",
+			"slug": "advanced",
+			"description": "Advanced features for power users"
+		},
+		{
+			"content_type_id": "application",
+			"name": "Daily Use",
+			"slug": "daily-use",
+			"description": "Applications used regularly"
+		},
+		{
+			"content_type_id": "application",
+			"name": "Occasional",
+			"slug": "occasional",
+			"description": "Applications used occasionally"
+		},
+		{
+			"content_type_id": "application",
+			"name": "Backup",
+			"slug": "backup",
+			"description": "Backup and recovery applications"
+		},
+		{
+			"content_type_id": "application",
+			"name": "Cloud Based",
+			"slug": "cloud-based",
+			"description": "Cloud-based or web applications"
+		},
+		{
+			"content_type_id": "application",
+			"name": "Offline",
+			"slug": "offline",
+			"description": "Works without internet connection"
+		},
+		{
+			"content_type_id": "application",
+			"name": "Real Time",
+			"slug": "real-time",
+			"description": "Real-time monitoring or processing"
+		},
+		{
+			"content_type_id": "application",
+			"name": "Customizable",
+			"slug": "customizable",
+			"description": "Highly customizable applications"
+		},
+		{
+			"content_type_id": "application",
+			"name": "Plugin Support",
+			"slug": "plugin-support",
+			"description": "Supports plugins or extensions"
+		},
+		{
+			"content_type_id": "application",
+			"name": "Community Driven",
+			"slug": "community-driven",
+			"description": "Community-developed applications"
+		},
+		{
+			"content_type_id": "application",
+			"name": "Regular Updates",
+			"slug": "regular-updates",
+			"description": "Actively maintained and updated"
+		},
+		{
+			"content_type_id": "application",
+			"name": "Legacy",
+			"slug": "legacy",
+			"description": "Older but still useful applications"
+		},
+		{
+			"content_type_id": "application",
+			"name": "Beta",
+			"slug": "beta",
+			"description": "Beta or experimental applications"
+		},
+		{
+			"content_type_id": "application",
+			"name": "Alternative",
+			"slug": "alternative",
+			"description": "Alternative to mainstream applications"
+		}
+	],
+	"content_metadata_attributes": [
+		{
+			"content_type_id": "application",
+			"name": "Developer",
+			"slug": "developer",
+			"attribute_type": "text",
+			"icon": "",
+			"order": 0,
+			"is_array": 0,
+			"filterable": 1,
+			"sortable": 1,
+			"description": ""
+		},
+		{
+			"content_type_id": "application",
+			"name": "License",
+			"slug": "license",
+			"attribute_type": "text",
+			"icon": "",
+			"order": 0,
+			"is_array": 0,
+			"filterable": 1,
+			"sortable": 1,
+			"description": ""
+		},
+		{
+			"content_type_id": "application",
+			"name": "System Requirements",
+			"slug": "system-requirements",
+			"attribute_type": "text",
+			"icon": "",
+			"order": 0,
+			"is_array": 0,
+			"filterable": 0,
+			"sortable": 0,
+			"description": ""
+		},
+		{
+			"content_type_id": "application",
+			"name": "Key Features",
+			"slug": "key-features",
+			"attribute_type": "text",
+			"icon": "",
+			"order": 0,
+			"is_array": 1,
+			"filterable": 0,
+			"sortable": 0,
+			"description": ""
+		},
+		{
+			"content_type_id": "application",
+			"name": "Alternatives",
+			"slug": "alternatives",
+			"attribute_type": "text",
+			"icon": "",
+			"order": 0,
+			"is_array": 1,
+			"filterable": 1,
+			"sortable": 0,
+			"description": ""
+		},
+		{
+			"content_type_id": "application",
+			"name": "Configuration Notes",
+			"slug": "configuration-notes",
+			"attribute_type": "text",
+			"icon": "",
+			"order": 0,
+			"is_array": 0,
+			"filterable": 0,
+			"sortable": 0,
+			"description": ""
+		}
+	],
+	"demo_data": [
+		{
+			"content_type_id": "application",
+			"category_id": "system-monitoring",
+			"file_id": null,
+			"name": "MSI Afterburner",
+			"slug": "msi-afterburner",
+			"description": "Graphics card overclocking utility with real-time monitoring, custom fan profiles, and on-screen display for GPU performance metrics.",
+			"cover": null,
+			"cover_gif": null,
+			"rating": 8,
+			"favorite": 0,
+			"view_count": 0,
+			"last_viewed_at": null,
+			"source_url": "https://www.msi.com/Landing/afterburner/graphics-cards",
+			"scrape_url": null,
+			"tags": ["free", "windows", "gui", "essential", "real-time"],
+			"metadata": {
+				"developer": "MSI Co., LTD",
+				"license": "Freeware",
+				"system-requirements": "Windows 7/8/10/11, DirectX 9.0c, .NET Framework 2.0",
+				"key-features": [
+					"GPU overclocking and undervolting",
+					"Real-time hardware monitoring",
+					"Custom fan curve profiles",
+					"On-screen display (OSD)",
+					"Screenshot and video recording",
+					"Hardware stress testing"
+				],
+				"alternatives": [
+					"GPU-Z",
+					"HWiNFO",
+					"EVGA Precision X1",
+					"ASUS GPU Tweak"
+				],
+				"configuration-notes": "Requires RivaTuner Statistics Server for OSD functionality. Safe to use with proper temperature monitoring."
+			}
+		},
+		{
+			"content_type_id": "application",
+			"category_id": "media-graphics",
+			"file_id": null,
+			"name": "GIMP",
+			"slug": "gimp",
+			"description": "GNU Image Manipulation Program - a free and open-source raster graphics editor used for image retouching, editing, and free-form drawing.",
+			"cover": null,
+			"cover_gif": null,
+			"rating": 8,
+			"favorite": 0,
+			"view_count": 0,
+			"last_viewed_at": null,
+			"source_url": "https://www.gimp.org",
+			"scrape_url": null,
+			"tags": [
+				"free",
+				"open-source",
+				"cross-platform",
+				"gui",
+				"professional",
+				"customizable",
+				"plugin-support"
+			],
+			"metadata": {
+				"developer": "GIMP Development Team",
+				"license": "GNU General Public License v3",
+				"system-requirements": "Windows 7+, macOS 10.12+, Linux with GTK+ 2.24.10+",
+				"key-features": [
+					"Advanced photo retouching and editing",
+					"Layer-based editing with blend modes",
+					"Extensive brush and painting tools",
+					"Plugin and script support",
+					"Multiple file format support",
+					"Customizable interface and workflows"
+				],
+				"alternatives": [
+					"Adobe Photoshop",
+					"Krita",
+					"Paint.NET",
+					"Photopea",
+					"Affinity Photo"
+				],
+				"configuration-notes": "Consider installing G'MIC plugin for additional filters. UI can be customized for single-window mode for easier workflow."
+			}
+		},
+		{
+			"content_type_id": "application",
+			"category_id": "media-graphics",
+			"file_id": null,
+			"name": "Blender",
+			"slug": "blender",
+			"description": "Professional open-source 3D creation suite supporting modeling, rigging, animation, simulation, rendering, compositing, and motion tracking.",
+			"cover": null,
+			"cover_gif": null,
+			"rating": 9,
+			"favorite": 0,
+			"view_count": 0,
+			"last_viewed_at": null,
+			"source_url": "https://www.blender.org",
+			"scrape_url": null,
+			"tags": [
+				"free",
+				"open-source",
+				"cross-platform",
+				"gui",
+				"professional",
+				"advanced",
+				"community-driven",
+				"regular-updates"
+			],
+			"metadata": {
+				"developer": "Blender Foundation",
+				"license": "GNU General Public License v3",
+				"system-requirements": "64-bit quad core CPU, 8GB RAM, GPU with OpenGL 3.3 support, Windows 8.1+/macOS 10.13+/Linux",
+				"key-features": [
+					"3D modeling and sculpting",
+					"Animation and rigging",
+					"Cycles and Eevee render engines",
+					"Video editing and compositing",
+					"Physics and particle simulations",
+					"Python scripting support",
+					"Geometry nodes procedural modeling"
+				],
+				"alternatives": [
+					"Maya",
+					"3ds Max",
+					"Cinema 4D",
+					"Houdini",
+					"ZBrush"
+				],
+				"configuration-notes": "Benefits from dedicated GPU for viewport and rendering. Large learning curve but extensive free tutorials available online."
+			}
+		},
+		{
+			"content_type_id": "application",
+			"category_id": "network",
+			"file_id": null,
+			"name": "qBittorrent",
+			"slug": "qbittorrent",
+			"description": "Free and reliable BitTorrent client with integrated search engine, RSS feed support, and remote control via web interface.",
+			"cover": null,
+			"cover_gif": null,
+			"rating": 8,
+			"favorite": 0,
+			"view_count": 0,
+			"last_viewed_at": null,
+			"source_url": "https://www.qbittorrent.org",
+			"scrape_url": null,
+			"tags": [
+				"free",
+				"open-source",
+				"cross-platform",
+				"gui",
+				"lightweight",
+				"essential",
+				"offline"
+			],
+			"metadata": {
+				"developer": "Christophe Dumez",
+				"license": "GNU General Public License v2",
+				"system-requirements": "Windows 7+, macOS 10.14+, Linux with Qt5",
+				"key-features": [
+					"Integrated torrent search engine",
+					"RSS feed support with filters",
+					"Web-based remote control interface",
+					"Sequential downloading",
+					"IP filtering and proxy support",
+					"Torrent creation tool",
+					"Bandwidth scheduling"
+				],
+				"alternatives": [
+					"Transmission",
+					"Deluge",
+					"BitTorrent",
+					"uTorrent",
+					"Vuze"
+				],
+				"configuration-notes": "Consider enabling encryption and using a VPN. Configure port forwarding for better connectivity. Built-in search requires Python."
+			}
+		},
+		{
+			"content_type_id": "application",
+			"category_id": "media-graphics",
+			"file_id": null,
+			"name": "MPV",
+			"slug": "mpv",
+			"description": "Minimalist command-line video player with extensive codec support, GPU acceleration, and highly customizable configuration options.",
+			"cover": null,
+			"cover_gif": null,
+			"rating": 8,
+			"favorite": 0,
+			"view_count": 0,
+			"last_viewed_at": null,
+			"source_url": "https://mpv.io",
+			"scrape_url": null,
+			"tags": [
+				"free",
+				"open-source",
+				"cross-platform",
+				"command-line",
+				"lightweight",
+				"advanced",
+				"customizable"
+			],
+			"metadata": {
+				"developer": "MPV Development Team",
+				"license": "GNU General Public License v2",
+				"system-requirements": "Windows 7+, macOS 10.10+, Linux with minimal dependencies",
+				"key-features": [
+					"Extensive video/audio codec support",
+					"GPU-accelerated video decoding",
+					"Lua scripting support",
+					"High-quality video scaling algorithms",
+					"Subtitle support with advanced rendering",
+					"Low resource usage and fast startup",
+					"Network streaming support"
+				],
+				"alternatives": [
+					"VLC Media Player",
+					"PotPlayer",
+					"MPC-HC",
+					"Kodi",
+					"SMPlayer"
+				],
+				"configuration-notes": "Primarily command-line but GUI versions available. Highly configurable via config files. Consider using with a GUI wrapper for easier use."
+			}
+		},
+		{
+			"content_type_id": "application",
+			"category_id": "file-management",
+			"file_id": null,
+			"name": "7-Zip",
+			"slug": "7-zip",
+			"description": "High-ratio file archiver with strong AES-256 encryption, supporting numerous archive formats and featuring a powerful command-line version.",
+			"cover": null,
+			"cover_gif": null,
+			"rating": 9,
+			"favorite": 0,
+			"view_count": 0,
+			"last_viewed_at": null,
+			"source_url": "https://www.7-zip.org",
+			"scrape_url": null,
+			"tags": [
+				"free",
+				"open-source",
+				"windows",
+				"gui",
+				"command-line",
+				"lightweight",
+				"essential"
+			],
+			"metadata": {
+				"developer": "Igor Pavlov",
+				"license": "GNU LGPL + unRAR restriction",
+				"system-requirements": "Windows XP/Vista/7/8/10/11",
+				"key-features": [
+					"High compression ratio",
+					"Strong AES-256 encryption",
+					"Support for 7z, ZIP, GZIP, BZIP2, TAR formats",
+					"Integration with Windows Shell",
+					"Command-line version available",
+					"Self-extracting capability for 7z format"
+				],
+				"alternatives": [
+					"WinRAR",
+					"PeaZip",
+					"Bandizip",
+					"WinZip",
+					"IZArc"
+				],
+				"configuration-notes": "Set as default archive handler for best integration. Command-line version useful for automation and scripts."
+			}
+		},
+		{
+			"content_type_id": "application",
+			"category_id": "productivity",
+			"file_id": null,
+			"name": "Obsidian",
+			"slug": "obsidian",
+			"description": "Knowledge management app using interconnected notes with graph view, markdown support, and extensive plugin ecosystem for personal knowledge bases.",
+			"cover": null,
+			"cover_gif": null,
+			"rating": 9,
+			"favorite": 0,
+			"view_count": 0,
+			"last_viewed_at": null,
+			"source_url": "https://obsidian.md",
+			"scrape_url": null,
+			"tags": [
+				"freemium",
+				"cross-platform",
+				"gui",
+				"customizable",
+				"plugin-support",
+				"offline",
+				"community-driven"
+			],
+			"metadata": {
+				"developer": "Dynalist Inc.",
+				"license": "Proprietary (Free for personal use)",
+				"system-requirements": "Windows 7+, macOS 10.13+, Linux AppImage",
+				"key-features": [
+					"Bidirectional linking between notes",
+					"Graph view of note connections",
+					"Markdown-based note taking",
+					"Extensive plugin and theme support",
+					"Local file storage",
+					"Canvas for visual note organization",
+					"Advanced search and filtering"
+				],
+				"alternatives": [
+					"Notion",
+					"Roam Research",
+					"Logseq",
+					"Joplin",
+					"Zettlr"
+				],
+				"configuration-notes": "Free for personal use, paid plans for commercial use and sync. Consider essential plugins like Templater, Dataview, and Calendar."
+			}
+		},
+		{
+			"content_type_id": "application",
+			"category_id": "utilities",
+			"file_id": null,
+			"name": "PowerToys",
+			"slug": "powertoys",
+			"description": "Microsoft's collection of system utilities for power users, including window management, file renaming, color picker, and keyboard shortcuts.",
+			"cover": null,
+			"cover_gif": null,
+			"rating": 8,
+			"favorite": 0,
+			"view_count": 0,
+			"last_viewed_at": null,
+			"source_url": "https://learn.microsoft.com/en-us/windows/powertoys",
+			"scrape_url": null,
+			"tags": [
+				"free",
+				"open-source",
+				"windows",
+				"gui",
+				"essential",
+				"productivity",
+				"regular-updates"
+			],
+			"metadata": {
+				"developer": "Microsoft Corporation",
+				"license": "MIT License",
+				"system-requirements": "Windows 10 version 2004 (19041) or newer",
+				"key-features": [
+					"FancyZones for window management",
+					"PowerRename for bulk file renaming",
+					"Color Picker utility",
+					"PowerLauncher (Alt+Space launcher)",
+					"Image Resizer shell extension",
+					"File Explorer add-ons",
+					"Keyboard Manager for key remapping"
+				],
+				"alternatives": [
+					"AutoHotkey",
+					"DisplayFusion",
+					"Wox",
+					"Everything",
+					"Bulk Rename Utility"
+				],
+				"configuration-notes": "Runs in system tray. Individual utilities can be enabled/disabled. FancyZones requires configuration for optimal window layouts."
+			}
+		}
+	]
+}

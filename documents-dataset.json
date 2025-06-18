@@ -1,0 +1,341 @@
+{
+	"metadata": {
+		"id": "documents",
+		"title": "Document Collection",
+		"description": "Document dataset for organizing office files, code files, text documents, and other work-related digital content.",
+		"author": "R3VISIT",
+		"updated_at": "2025-06-14",
+		"version": "1.0.0"
+	},
+	"content_type": {
+		"name": "Document",
+		"slug": "document",
+		"shape": "rectangular",
+		"file_type": "document",
+		"description": "Office documents, code files, text files, and digital documents..",
+		"cover": "document-cover.webp",
+		"icon": "document",
+		"order": 0,
+		"pinned": 0,
+		"docked": 1,
+		"locked": 0
+	},
+	"categories": [
+		{
+			"content_type_id": "document",
+			"name": "Office Documents",
+			"slug": "office",
+			"description": "Microsoft Office and similar productivity documents"
+		},
+		{
+			"content_type_id": "document",
+			"name": "Code Files",
+			"slug": "code",
+			"description": "Programming and markup language files"
+		},
+		{
+			"content_type_id": "document",
+			"name": "Text Files",
+			"slug": "text",
+			"description": "Plain text and formatted text documents"
+		},
+		{
+			"content_type_id": "document",
+			"name": "Spreadsheets",
+			"slug": "spreadsheet",
+			"description": "Excel, CSV, and other data calculation files"
+		},
+		{
+			"content_type_id": "document",
+			"name": "Presentations",
+			"slug": "presentation",
+			"description": "PowerPoint and other presentation files"
+		},
+		{
+			"content_type_id": "document",
+			"name": "PDF Documents",
+			"slug": "pdf",
+			"description": "Portable Document Format files"
+		},
+		{
+			"content_type_id": "document",
+			"name": "Data Files",
+			"slug": "data",
+			"description": "JSON, XML, CSV, and other structured data files"
+		},
+		{
+			"content_type_id": "document",
+			"name": "Configuration",
+			"slug": "config",
+			"description": "Configuration and settings files"
+		},
+		{
+			"content_type_id": "document",
+			"name": "Documentation",
+			"slug": "documentation",
+			"description": "README, manuals, and instructional documents"
+		},
+		{
+			"content_type_id": "document",
+			"name": "Templates",
+			"slug": "template",
+			"description": "Document templates and boilerplates"
+		},
+		{
+			"content_type_id": "document",
+			"name": "Reports",
+			"slug": "report",
+			"description": "Business reports and analytical documents"
+		},
+		{
+			"content_type_id": "document",
+			"name": "Scripts",
+			"slug": "script",
+			"description": "Automation and executable script files"
+		}
+	],
+	"tags": [
+		{
+			"content_type_id": "document",
+			"name": "Work",
+			"slug": "work",
+			"description": "Work-related documents and files"
+		},
+		{
+			"content_type_id": "document",
+			"name": "Personal",
+			"slug": "personal",
+			"description": "Personal documents and files"
+		},
+		{
+			"content_type_id": "document",
+			"name": "Project",
+			"slug": "project",
+			"description": "Project-specific documents"
+		},
+		{
+			"content_type_id": "document",
+			"name": "Draft",
+			"slug": "draft",
+			"description": "Work-in-progress documents"
+		},
+		{
+			"content_type_id": "document",
+			"name": "Final",
+			"slug": "final",
+			"description": "Completed and finalized documents"
+		},
+		{
+			"content_type_id": "document",
+			"name": "Archive",
+			"slug": "archive",
+			"description": "Archived or historical documents"
+		},
+		{
+			"content_type_id": "document",
+			"name": "Important",
+			"slug": "important",
+			"description": "High-priority or critical documents"
+		},
+		{
+			"content_type_id": "document",
+			"name": "Shared",
+			"slug": "shared",
+			"description": "Documents shared with others"
+		},
+		{
+			"content_type_id": "document",
+			"name": "Confidential",
+			"slug": "confidential",
+			"description": "Sensitive or confidential documents"
+		},
+		{
+			"content_type_id": "document",
+			"name": "Reference",
+			"slug": "reference",
+			"description": "Reference materials and guides"
+		},
+		{
+			"content_type_id": "document",
+			"name": "Meeting",
+			"slug": "meeting",
+			"description": "Meeting notes and agendas"
+		},
+		{
+			"content_type_id": "document",
+			"name": "Contract",
+			"slug": "contract",
+			"description": "Legal contracts and agreements"
+		},
+		{
+			"content_type_id": "document",
+			"name": "Invoice",
+			"slug": "invoice",
+			"description": "Financial invoices and billing"
+		},
+		{
+			"content_type_id": "document",
+			"name": "Resume",
+			"slug": "resume",
+			"description": "CVs and professional profiles"
+		},
+		{
+			"content_type_id": "document",
+			"name": "Tutorial",
+			"slug": "tutorial",
+			"description": "How-to guides and tutorials"
+		},
+		{
+			"content_type_id": "document",
+			"name": "Research",
+			"slug": "research",
+			"description": "Research papers and studies"
+		},
+		{
+			"content_type_id": "document",
+			"name": "Backup",
+			"slug": "backup",
+			"description": "Backup copies of documents"
+		},
+		{
+			"content_type_id": "document",
+			"name": "Source Code",
+			"slug": "source-code",
+			"description": "Programming source code files"
+		},
+		{
+			"content_type_id": "document",
+			"name": "Frontend",
+			"slug": "frontend",
+			"description": "Frontend development files"
+		},
+		{
+			"content_type_id": "document",
+			"name": "Backend",
+			"slug": "backend",
+			"description": "Backend development files"
+		},
+		{
+			"content_type_id": "document",
+			"name": "Database",
+			"slug": "database",
+			"description": "Database-related files and scripts"
+		},
+		{
+			"content_type_id": "document",
+			"name": "API",
+			"slug": "api",
+			"description": "API documentation and specifications"
+		},
+		{
+			"content_type_id": "document",
+			"name": "Mobile",
+			"slug": "mobile",
+			"description": "Mobile development files"
+		},
+		{
+			"content_type_id": "document",
+			"name": "Web",
+			"slug": "web",
+			"description": "Web development files"
+		},
+		{
+			"content_type_id": "document",
+			"name": "Desktop",
+			"slug": "desktop",
+			"description": "Desktop application files"
+		},
+		{
+			"content_type_id": "document",
+			"name": "Game Dev",
+			"slug": "game-dev",
+			"description": "Game development files"
+		},
+		{
+			"content_type_id": "document",
+			"name": "Machine Learning",
+			"slug": "machine-learning",
+			"description": "ML and AI related files"
+		},
+		{
+			"content_type_id": "document",
+			"name": "DevOps",
+			"slug": "devops",
+			"description": "DevOps and deployment files"
+		},
+		{
+			"content_type_id": "document",
+			"name": "Testing",
+			"slug": "testing",
+			"description": "Test files and testing documentation"
+		},
+		{
+			"content_type_id": "document",
+			"name": "Open Source",
+			"slug": "open-source",
+			"description": "Open source project files"
+		},
+		{
+			"content_type_id": "document",
+			"name": "Legacy",
+			"slug": "legacy",
+			"description": "Legacy or outdated files"
+		}
+	],
+	"content_metadata_attributes": [
+		{
+			"content_type_id": "document",
+			"name": "Version",
+			"slug": "version",
+			"attribute_type": "text",
+			"icon": "",
+			"order": 0,
+			"is_array": 0,
+			"filterable": 1,
+			"sortable": 1,
+			"description": ""
+		}
+	],
+	"demo_data": [
+		{
+			"content_type_id": "document",
+			"category_id": "template",
+			"file_id": null,
+			"name": "CV Template",
+			"slug": "cv-template",
+			"description": "Clean and modern curriculum vitae template with sections for experience, education, skills, and references.",
+			"cover": null,
+			"cover_gif": null,
+			"rating": 8,
+			"favorite": 0,
+			"view_count": 0,
+			"last_viewed_at": null,
+			"source_url": null,
+			"scrape_url": null,
+			"tags": ["resume", "work", "template", "reference"],
+			"metadata": {
+				"version": "1.2"
+			}
+		},
+		{
+			"content_type_id": "document",
+			"category_id": "template",
+			"file_id": null,
+			"name": "Invoice Template",
+			"slug": "invoice-template",
+			"description": "Professional invoice template with company details, itemized billing, tax calculations, and payment terms.",
+			"cover": null,
+			"cover_gif": null,
+			"rating": 9,
+			"favorite": 0,
+			"view_count": 0,
+			"last_viewed_at": null,
+			"source_url": null,
+			"scrape_url": null,
+			"tags": ["invoice", "work", "template", "important"],
+			"metadata": {
+				"version": "2.0"
+			}
+		}
+	]
+}

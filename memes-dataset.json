@@ -1,0 +1,280 @@
+{
+	"metadata": {
+		"id": "memes",
+		"title": "Meme Collection",
+		"description": "Meme dataset for organizing internet memes, funny images, GIFs, and viral content for maximum entertainment value.",
+		"author": "R3VISIT",
+		"updated_at": "2025-06-14",
+		"version": "1.0.0"
+	},
+	"content_type": {
+		"name": "Meme",
+		"slug": "meme",
+		"shape": "rectangular",
+		"file_type": "image",
+		"description": "Internet memes, funny images, GIFs, and viral content.",
+		"cover": "meme-cover.webp",
+		"icon": "smile",
+		"order": 0,
+		"pinned": 0,
+		"docked": 1,
+		"locked": 0
+	},
+	"categories": [
+		{
+			"content_type_id": "meme",
+			"name": "Classic Memes",
+			"slug": "classic",
+			"description": "Timeless memes that defined internet culture"
+		},
+		{
+			"content_type_id": "meme",
+			"name": "Reaction Memes",
+			"slug": "reaction",
+			"description": "Perfect for expressing emotions and reactions"
+		},
+		{
+			"content_type_id": "meme",
+			"name": "Animal Memes",
+			"slug": "animal",
+			"description": "Cute and funny animal-based memes"
+		},
+		{
+			"content_type_id": "meme",
+			"name": "Gaming Memes",
+			"slug": "gaming",
+			"description": "Memes about video games and gaming culture"
+		},
+		{
+			"content_type_id": "meme",
+			"name": "Programming Memes",
+			"slug": "programming",
+			"description": "Developer humor and coding jokes"
+		},
+		{
+			"content_type_id": "meme",
+			"name": "Work Memes",
+			"slug": "work",
+			"description": "Office life and workplace humor"
+		},
+		{
+			"content_type_id": "meme",
+			"name": "Relatable Memes",
+			"slug": "relatable",
+			"description": "Everyday situations we all understand"
+		},
+		{
+			"content_type_id": "meme",
+			"name": "Wholesome Memes",
+			"slug": "wholesome",
+			"description": "Positive and heartwarming content"
+		},
+		{
+			"content_type_id": "meme",
+			"name": "Dark Humor",
+			"slug": "dark-humor",
+			"description": "Edgy and dark comedy memes"
+		},
+		{
+			"content_type_id": "meme",
+			"name": "Surreal Memes",
+			"slug": "surreal",
+			"description": "Abstract and bizarre humor"
+		},
+		{
+			"content_type_id": "meme",
+			"name": "Pop Culture",
+			"slug": "pop-culture",
+			"description": "Memes about movies, TV, celebrities"
+		},
+		{
+			"content_type_id": "meme",
+			"name": "Deep Fried",
+			"slug": "deep-fried",
+			"description": "Over-processed and distorted memes"
+		}
+	],
+	"tags": [
+		{
+			"content_type_id": "meme",
+			"name": "Viral",
+			"slug": "viral",
+			"description": "Memes that went viral on social media"
+		},
+		{
+			"content_type_id": "meme",
+			"name": "Fresh",
+			"slug": "fresh",
+			"description": "New and trending memes"
+		},
+		{
+			"content_type_id": "meme",
+			"name": "Vintage",
+			"slug": "vintage",
+			"description": "Old school internet memes"
+		},
+		{
+			"content_type_id": "meme",
+			"name": "Dank",
+			"slug": "dank",
+			"description": "High quality dank memes"
+		},
+		{
+			"content_type_id": "meme",
+			"name": "Animated",
+			"slug": "animated",
+			"description": "GIFs and animated memes"
+		},
+		{
+			"content_type_id": "meme",
+			"name": "Text Heavy",
+			"slug": "text-heavy",
+			"description": "Memes with lots of text"
+		},
+		{
+			"content_type_id": "meme",
+			"name": "Minimalist",
+			"slug": "minimalist",
+			"description": "Simple and clean meme format"
+		},
+		{
+			"content_type_id": "meme",
+			"name": "Meta",
+			"slug": "meta",
+			"description": "Memes about memes"
+		},
+		{
+			"content_type_id": "meme",
+			"name": "Crossover",
+			"slug": "crossover",
+			"description": "Memes combining multiple formats"
+		},
+		{
+			"content_type_id": "meme",
+			"name": "OC",
+			"slug": "oc",
+			"description": "Original content memes"
+		},
+		{
+			"content_type_id": "meme",
+			"name": "Repost",
+			"slug": "repost",
+			"description": "Classic reposts everyone loves"
+		},
+		{
+			"content_type_id": "meme",
+			"name": "Reddit",
+			"slug": "reddit",
+			"description": "Memes from Reddit culture"
+		},
+		{
+			"content_type_id": "meme",
+			"name": "Twitter",
+			"slug": "twitter",
+			"description": "Twitter/X originated memes"
+		},
+		{
+			"content_type_id": "meme",
+			"name": "TikTok",
+			"slug": "tiktok",
+			"description": "TikTok viral memes"
+		},
+		{
+			"content_type_id": "meme",
+			"name": "Instagram",
+			"slug": "instagram",
+			"description": "Instagram meme culture"
+		},
+		{
+			"content_type_id": "meme",
+			"name": "4chan",
+			"slug": "4chan",
+			"description": "4chan originated content"
+		},
+		{
+			"content_type_id": "meme",
+			"name": "Twitch",
+			"slug": "twitch",
+			"description": "Twitch emotes and streaming memes"
+		},
+		{
+			"content_type_id": "meme",
+			"name": "Discord",
+			"slug": "discord",
+			"description": "Discord server memes"
+		},
+		{
+			"content_type_id": "meme",
+			"name": "Nostalgia",
+			"slug": "nostalgia",
+			"description": "Nostalgic and throwback memes"
+		},
+		{
+			"content_type_id": "meme",
+			"name": "Gen Z",
+			"slug": "gen-z",
+			"description": "Gen Z humor and culture"
+		},
+		{
+			"content_type_id": "meme",
+			"name": "Millennial",
+			"slug": "millennial",
+			"description": "Millennial experiences and humor"
+		},
+		{
+			"content_type_id": "meme",
+			"name": "Boomer",
+			"slug": "boomer",
+			"description": "Boomer humor and generational jokes"
+		},
+		{
+			"content_type_id": "meme",
+			"name": "Cringe",
+			"slug": "cringe",
+			"description": "So bad it's good cringe content"
+		},
+		{
+			"content_type_id": "meme",
+			"name": "Ironic",
+			"slug": "ironic",
+			"description": "Ironically funny memes"
+		},
+		{
+			"content_type_id": "meme",
+			"name": "Shitpost",
+			"slug": "shitpost",
+			"description": "Low effort high comedy content"
+		},
+		{
+			"content_type_id": "meme",
+			"name": "Blessed",
+			"slug": "blessed",
+			"description": "Blessed and cursed image vibes"
+		},
+		{
+			"content_type_id": "meme",
+			"name": "Cursed",
+			"slug": "cursed",
+			"description": "Cursed and uncomfortable images"
+		},
+		{
+			"content_type_id": "meme",
+			"name": "Deep Lore",
+			"slug": "deep-lore",
+			"description": "Memes with complex backstories"
+		},
+		{
+			"content_type_id": "meme",
+			"name": "Seasonal",
+			"slug": "seasonal",
+			"description": "Holiday and seasonal memes"
+		},
+		{
+			"content_type_id": "meme",
+			"name": "Current Events",
+			"slug": "current-events",
+			"description": "Memes about recent happenings"
+		}
+	],
+	"content_metadata_attributes": []
+}
