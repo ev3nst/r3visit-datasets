@@ -13,7 +13,7 @@
 		"shape": "rectangular",
 		"file_type": "binary",
 		"description": "Digital adventures that have entertained me.",
-		"cover": "game-cover.webp",
+		"cover": "games-cover.webp",
 		"icon": "gamepad-2",
 		"order": 0,
 		"pinned": 0,

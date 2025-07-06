@@ -13,7 +13,7 @@
 		"shape": "rectangular",
 		"file_type": "video",
 		"description": "My favorite films, from blockbusters to indie gems.",
-		"cover": "movie-cover.webp",
+		"cover": "movies-cover.webp",
 		"icon": "film",
 		"order": 0,
 		"pinned": 0,

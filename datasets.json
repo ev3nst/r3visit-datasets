@@ -1,10 +1,10 @@
 [
-	"movies-dataset.json",
-	"animes-dataset.json",
-	"games-dataset.json",
-	"documents-dataset.json",
-	"memes-dataset.json",
-	"musics-dataset.json",
-	"wallpapers-dataset.json",
-	"applications-dataset.json"
+	"movies",
+	"animes",
+	"games",
+	"documents",
+	"memes",
+	"musics",
+	"wallpapers",
+	"applications"
 ]
